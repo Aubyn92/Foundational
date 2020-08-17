@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/bin/Debug/netcoreapp3.1/basic-coding.deps.json
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/bin/Debug/netcoreapp3.1/basic-coding.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/bin/Debug/netcoreapp3.1/basic-coding.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/bin/Debug/netcoreapp3.1/basic-coding.dll
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/bin/Debug/netcoreapp3.1/basic-coding.pdb
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.dll
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.pdb
+/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/Debug/netcoreapp3.1/basic-coding.genruntimeconfig.cache
