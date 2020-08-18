@@ -15,15 +15,26 @@ namespace basic_coding
             //    string name = Console.ReadLine();
             //    Console.WriteLine($"Hello, {name}!");
 
-            // Task 3: Write a program that asks the user for their name and only greets you if you are Alice or Bob.
-            Console.WriteLine("Please enter your name: ");
-            string name = Console.ReadLine();
-            if (name.Equals("Alice") || name.Equals("Bob"))
-            {
-                Console.WriteLine($"Hello, {name}!");
-            }
-            else
-                Console.WriteLine($"Your name is incorrect. Rename yourself please.");
+            // Task 3: Write a program that asks the user for their name and only greets you if you are Alice or Bob:
+            //    Console.WriteLine("Please enter your name: ");
+            //    string name = Console.ReadLine();
+            //    if (name.Equals("Alice") || name.Equals("Bob"))
+            //    {
+            //    Console.WriteLine($"Hello, {name}!");
+            //    }
+            //    else
+            //    Console.WriteLine($"Your name is incorrect. Rename yourself please.");
+
+            // Task 4: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n:
+                   int i, sum = 0, n;
+                   Console.WriteLine("Please enter a number: ");
+                   n = int.Parse(Console.ReadLine());
+                   for (i = 0; i <= n; i++) 
+                   {
+                       sum = sum + i;
+                   }
+                   Console.WriteLine("\nSum of numbers: " + sum);
+                   Console.ReadLine();
         }
     }
 }
