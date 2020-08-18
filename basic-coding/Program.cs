@@ -37,22 +37,48 @@ namespace basic_coding
             //    Console.ReadLine();
 
             // Task 5: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n if the number is a multiple of three or five:
-                int i, sum = 0, n;
-                Console.WriteLine("Please enter a number: ");
-                n = int.Parse(Console.ReadLine());
-                for (i = 0; i <= n; i++) 
-                {
-                    sum = sum + i;
-                }
-                if (sum % 3 == 0 || sum % 5 == 0)
-                {
-                    Console.WriteLine("\nSum of numbers: " + sum);
-                }
-                else 
-                {
-                    Console.WriteLine("Not divisible by 3 and 5");
-                }
-                Console.ReadLine(); 
+            //    int i, sum = 0, n;
+            //    Console.WriteLine("Please enter a number: ");
+            //    n = int.Parse(Console.ReadLine());
+            //    for (i = 0; i <= n; i++) 
+            //    {
+            //       sum = sum + i;
+            //    }
+            //    if (sum % 3 == 0 || sum % 5 == 0)
+            //    {
+            //       Console.WriteLine("\nSum of numbers: " + sum);
+            //    }
+            //    else 
+            //    {
+            //       Console.WriteLine("Not divisible by 3 or 5");
+            //    }
+            //    Console.ReadLine();
+
+            // Task 6: Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n:  
+            Console.WriteLine("Please enter a number: ");
+            string number = Console.ReadLine();
+            int n = Convert.ToInt32(number);
+            Console.WriteLine("Choose 1 for the sum of your number, or 2 for the factorial of your number");
+            string chosen = Console.ReadLine();
+
+            int result = -1;
+
+            if (chosen == "1")
+            {
+                result = 1;
+                for (int i = n; i >= 1; i--) //loop for calculating factorial
+                result *= i;
+            }
+            else if (chosen == "2")
+            {
+                result = 0;
+                for (int i = n; i >= 1; i--)  //loop for calculating sum
+                result += i;
+            }
+            Console.WriteLine(result);
+            Console.ReadLine();
         }
     }
 }
+
+
