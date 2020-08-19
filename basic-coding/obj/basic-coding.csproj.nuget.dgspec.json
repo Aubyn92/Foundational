@@ -14,7 +14,7 @@
         "outputPath": "/Users/alivia.sherwood/Desktop/foundational/basic-coding/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alivia.sherwood/.nuget/NuGet/NuGet.Config"
+          "/Users/alivia.sherwood/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
