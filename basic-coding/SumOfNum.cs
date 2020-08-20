@@ -9,6 +9,7 @@ namespace basic_coding
     public class SumOfNum 
 
     {
+        
         public static void SumOfNumbers()
         {
             // Task 4: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n:
