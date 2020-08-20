@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task5
+    public class Division
     {
-        static void Main(string[] args)
+        public static void SumDivision()
         {
             // Task 5: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n if the number is a multiple of three or five:
             int i, sum = 0, n;

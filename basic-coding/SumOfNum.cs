@@ -6,9 +6,10 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task4
+    public class SumOfNum 
+
     {
-        static void Main(string[] args)
+        public static void SumOfNumbers()
         {
             // Task 4: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n:
             int i, sum = 0, n;

@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task2
+    public class Greeting
     {
-        static void Main(string[] args)
+         public static void GreetUser()
         {
             // Task 2: Write a program that asks the user for their name and greets them with their name:
             Console.WriteLine("Please enter your name: ");

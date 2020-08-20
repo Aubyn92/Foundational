@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task3
+    public class GreetBobOrAlice
     {
-        static void Main(string[] args)
+        public static void HelloBobOrAlice()
         {
             // Task 3: Write a program that asks the user for their name and only greets you if you are Alice or Bob:
             Console.WriteLine("Please enter your name: ");
