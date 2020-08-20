@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task9
+    public class TwentyLeapYears
     {
-        static void Main(string[] args)
+        public static void LeapYears()
         {
             // Task 9: Write a program that prints the next 20 leap years:
 

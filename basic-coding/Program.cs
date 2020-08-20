@@ -12,9 +12,23 @@ namespace basic_coding
         {
             // Task 1: Write a program that prints ‘Hello World’ to the screen:
             Console.WriteLine("Hello World!");
+            SumOfNum.SumOfNumbers();
+            TwentyLeapYears.LeapYears();
+            Multiply.Multiplication();
+            GuessTheNumber.GuessingGame();
+            Greeting.GreetUser();
+            GreetBobOrAlice.HelloBobOrAlice();
+            Factorial.SumOrFactorial();
+            Division.SumDivision();
         }
     }
 }
+
+
+
+
+
+
 
 
 

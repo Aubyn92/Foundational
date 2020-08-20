@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task7
+    public class Multiply
     {
-        static void Main(string[] args)
+        public static void Multiplication()
         {
             // Task 7: Write a program that prints a multiplication table for numbers up to 12:
             int num;

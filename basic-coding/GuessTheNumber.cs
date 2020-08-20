@@ -6,9 +6,9 @@ using System.Text;
 
 namespace basic_coding
 {
-    class Task8
+    public class GuessTheNumber
     {
-        static void Main(string[] args)
+        public static void GuessingGame()
         {
             // Task 8: Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively:
             int randomNumber = new Random().Next(1, 101); //generates a random number between 1 and 100
