@@ -37,12 +37,13 @@ namespace basic_coding
                         numOfLeapYears++;
                         Console.WriteLine(year);
                     }
-
                 }
+                Console.ReadLine();
             }
         }
     }
 }
+
 
 
 
