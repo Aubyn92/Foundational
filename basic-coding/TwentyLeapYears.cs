@@ -8,27 +8,42 @@ namespace basic_coding
 {
     public class TwentyLeapYears
     {
-        public static void LeapYears()
+        public void LeapYears()
         {
             {
                 Console.Write("Enter a year(YYYY): ");
                 string stringChosenYear = Console.ReadLine();
 
-                int newYear = int.Parse(stringChosenYear);
+                int newYear = 0;
+                bool success = int.TryParse(stringChosenYear, out newYear);
+
+                if (!success)
+                {
+                    Console.WriteLine("Not a number");
+                    return;
+                }
+
+                if (newYear < 1752)
+                {
+                    newYear = 1751;
+                }
 
                 Console.WriteLine("The next 20 leap years are: ");
-                for (int year = newYear; year >= 1752; year++)
+                int numOfLeapYears = 0;
+                for (int year = newYear + 1; numOfLeapYears < 20; year++)
                 {
                     if (year % 4 == 0)
                     {
+                        numOfLeapYears++;
                         Console.WriteLine(year);
-                        Console.ReadLine();
                     }
                 }
+                Console.ReadLine();
             }
         }
     }
 }
+
 
 
 
