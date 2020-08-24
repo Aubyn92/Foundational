@@ -20,7 +20,6 @@ namespace FizzBuzz
                     Console.WriteLine("FizzBuzz!");
                 else
                     Console.WriteLine(i);
-                Console.ReadLine();
             }
         }
     }
