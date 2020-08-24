@@ -8,7 +8,7 @@ namespace basic_coding
 {
     public class GreetBobOrAlice
     {
-        public static void HelloBobOrAlice()
+        public void HelloBobOrAlice()
         {
             // Task 3: Write a program that asks the user for their name and only greets you if you are Alice or Bob:
             Console.WriteLine("Please enter your name: ");

@@ -10,7 +10,7 @@ namespace basic_coding
 
     {
         
-        public static void SumOfNumbers()
+        public void SumOfNumbers()
         {
             // Task 4: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n:
             int i, sum = 0, n;

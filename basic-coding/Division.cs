@@ -8,7 +8,7 @@ namespace basic_coding
 {
     public class Division
     {
-        public static void SumDivision()
+        public void SumDivision()
         {
             // Task 5: Write a program that asks the user for a number n and prints the sum of the numbers 1 to n if the number is a multiple of three or five:
             int i, sum = 0, n;
