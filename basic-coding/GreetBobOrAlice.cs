@@ -10,17 +10,21 @@ namespace basic_coding
     {
         public void HelloBobOrAlice()
         {
+            var name = "";
+            while(name != "Bob" && name != "Alice")
+            {
             // Task 3: Write a program that asks the user for their name and only greets you if you are Alice or Bob:
             
             Console.WriteLine("Please enter your name: ");
-            string name = Console.ReadLine();
+            name = Console.ReadLine();
 
             if (name.Equals("Alice") || name.Equals("Bob"))
             {
                 Console.WriteLine($"Hello, {name}!");
             }
             else
-                Console.WriteLine($"Your name is incorrect. Rename yourself please.");
+                Console.WriteLine($"Incorrect. Try again please: ");
+            }
         }
     }
 }

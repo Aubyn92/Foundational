@@ -12,6 +12,8 @@ namespace basic_coding
 {
             // Task 1: Write a program that prints ‘Hello World’ to the screen:
             // Console.WriteLine("Hello World!");
+            var hello1 = new GreetBobOrAlice();
+            hello1.HelloBobOrAlice();
 
             var div1 = new Division();
             div1.SumDivision();
@@ -34,8 +36,6 @@ namespace basic_coding
             var yr1 = new TwentyLeapYears();
             yr1.LeapYears();
 
-            var hello1 = new GreetBobOrAlice();
-            hello1.HelloBobOrAlice();
         }
     }
 }
