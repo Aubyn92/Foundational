@@ -1,7 +1,7 @@
 ﻿using System;
+using System.IO;
+using System.Text.RegularExpressions;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace ABC
 {
@@ -9,7 +9,8 @@ namespace ABC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var blockobj = new Alphabet();
+            blockobj.ABC();
         }
     }
 }

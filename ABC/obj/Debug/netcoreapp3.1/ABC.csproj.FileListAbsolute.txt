@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/ABC/bin/Debug/netcoreapp3.1/ABC.deps.json
+/Users/alivia.sherwood/Desktop/foundational/ABC/bin/Debug/netcoreapp3.1/ABC.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/ABC/bin/Debug/netcoreapp3.1/ABC.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/ABC/bin/Debug/netcoreapp3.1/ABC.dll
+/Users/alivia.sherwood/Desktop/foundational/ABC/bin/Debug/netcoreapp3.1/ABC.pdb
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.dll
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.pdb
+/Users/alivia.sherwood/Desktop/foundational/ABC/obj/Debug/netcoreapp3.1/ABC.genruntimeconfig.cache
