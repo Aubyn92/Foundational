@@ -11,17 +11,37 @@ using System.Collections.Generic;
 // The function should be case-insensitive
 namespace ABC
 {
-    public class Alphabet
+    public class Alphabet //base class: declaring a public class(blueprint) for creating objects
     {
-        public void ABC()
+        // instance variables/data members:
+        public string blocks;
+        public List<string> words;
+
+
+        // the constructor:
+        public Alphabet(String blocks, List<string> words)
+        // constructor statements
+        {
+            this.blocks = blocks;
+            this.words = words;
+        }
+
+        // property #1:
+        public String getBlocks()
+        {
+            return blocks;
+        }
+
+        // // property #2:
+        public List<string> getWords()
+        {
+            return words;
+        }
+
+        public void ABC() //function/method 
         {
             //declaring a 'string' type variable named 'blocks'
-            string blocks = "BO XK DQ CP NA GT RE TG QD FS JW HU VI AN OB ER FS LY PC ZM"; //the sample blocks given
-            // create a list for the sample words named 'words', using keyword 'new' and invoke it
-            List<string> words = new List<string>() 
-            {
-                "A", "BARK", "BOOK", "TREAT", "COMMON", "SQUAD", "CONFUSE"
-            };
+
 
             // use a loop to iterate through a singular 'word' in the 'words' list created above: new variable created for 'word' to do this
             // print each word to the screen followed by a bool value calculated using bool func below. Use of composite format {0}:{1}:
