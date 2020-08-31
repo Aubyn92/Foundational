@@ -14,8 +14,8 @@ namespace ABC
     public class Alphabet //base class: declaring a public class(blueprint) for creating objects
     {
         // instance variables/data members:
-        private readonly string blocks;
-        private readonly List<string> words;
+        private string blocks;
+        private List<string> words;
 
 
         // the constructor:
@@ -26,16 +26,17 @@ namespace ABC
             this.words = words;
         }
 
-        // property #1:
-        public String getBlocks()
+       // getters and setters to alter private member variables. Alternatively can use readonly.
+        public string Blocks
         {
-            return blocks;
+            get { return blocks; }
+            set { blocks = value; }
         }
 
-        // // property #2:
-        public List<string> getWords()
+        public List<string> Words
         {
-            return words;
+            get { return words; }
+            set { words = value; }
         }
 
         public void ABC() //function/method 
@@ -52,7 +53,7 @@ namespace ABC
         }
 
         // Boolean function named 'CheckWord' that takes in the above 'string' variable called 'blocks' and the string variable called 'word' 
-        bool CheckWord(string blocks, string word)
+        private bool CheckWord(string blocks, string word)
         {
             // for loop to determine if 'i' is less than the length of the word, increment it by one
             for (int i = 0; i < word.Length; ++i)
