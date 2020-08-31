@@ -14,8 +14,8 @@ namespace ABC
     public class Alphabet //base class: declaring a public class(blueprint) for creating objects
     {
         // instance variables/data members:
-        public string blocks;
-        public List<string> words;
+        private readonly string blocks;
+        private readonly List<string> words;
 
 
         // the constructor:
