@@ -1,12 +1,17 @@
 ﻿using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace magic_year
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var person1 = new Person();
+            person1.MagicDetails();
+            person1.MagicSlip();
         }
     }
-}
+}  
