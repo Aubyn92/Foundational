@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/magic-year/bin/Debug/netcoreapp3.1/magic-year.deps.json
+/Users/alivia.sherwood/Desktop/foundational/magic-year/bin/Debug/netcoreapp3.1/magic-year.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/magic-year/bin/Debug/netcoreapp3.1/magic-year.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/magic-year/bin/Debug/netcoreapp3.1/magic-year.dll
+/Users/alivia.sherwood/Desktop/foundational/magic-year/bin/Debug/netcoreapp3.1/magic-year.pdb
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.dll
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.pdb
+/Users/alivia.sherwood/Desktop/foundational/magic-year/obj/Debug/netcoreapp3.1/magic-year.genruntimeconfig.cache
