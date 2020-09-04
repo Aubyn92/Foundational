@@ -23,9 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa641366-3f74-479f-a56f-0ce2dfe459fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/magic-year.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/magic-year.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +44,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Person.cs" />
+        <option value="$PROJECT_DIR$/InformationAsker.cs" />
+        <option value="$PROJECT_DIR$/InformationStorer.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -85,7 +93,9 @@
       <workItem from="1598928507092" duration="402000" />
       <workItem from="1598938186760" duration="223000" />
       <workItem from="1599010889166" duration="11344000" />
-      <workItem from="1599046086540" duration="8000" />
+      <workItem from="1599046086540" duration="1738000" />
+      <workItem from="1599103020102" duration="7250000" />
+      <workItem from="1599142029648" duration="1202000" />
     </task>
     <servers />
   </component>
@@ -110,26 +120,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1547" height="263" key="GridCell.Tab.0.bottom" timestamp="1599046074059">
+    <state width="1595" height="265" key="GridCell.Tab.0.bottom" timestamp="1599110445277">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1808" height="276" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599018335841" />
-    <state width="1547" height="263" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1599046074059" />
-    <state width="1547" height="263" key="GridCell.Tab.0.center" timestamp="1599046074059">
+    <state width="1790" height="265" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629635" />
+    <state width="1569" height="265" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575666" />
+    <state width="1595" height="265" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1599110445277" />
+    <state width="1595" height="265" key="GridCell.Tab.0.center" timestamp="1599110445276">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1808" height="276" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599018335841" />
-    <state width="1547" height="263" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1599046074059" />
-    <state width="1547" height="263" key="GridCell.Tab.0.left" timestamp="1599046074059">
+    <state width="1790" height="265" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629634" />
+    <state width="1569" height="265" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575665" />
+    <state width="1595" height="265" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1599110445276" />
+    <state width="1595" height="265" key="GridCell.Tab.0.left" timestamp="1599110445276">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1808" height="276" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599018335840" />
-    <state width="1547" height="263" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1599046074059" />
-    <state width="1547" height="263" key="GridCell.Tab.0.right" timestamp="1599046074059">
+    <state width="1790" height="265" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629633" />
+    <state width="1569" height="265" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575664" />
+    <state width="1595" height="265" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1599110445276" />
+    <state width="1595" height="265" key="GridCell.Tab.0.right" timestamp="1599110445277">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1808" height="276" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599018335841" />
-    <state width="1547" height="263" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1599046074059" />
+    <state width="1790" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629634" />
+    <state width="1569" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575665" />
+    <state width="1595" height="265" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1599110445277" />
     <state x="330" y="23" width="1350" height="1027" key="SettingsEditor" timestamp="1599046093537">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
