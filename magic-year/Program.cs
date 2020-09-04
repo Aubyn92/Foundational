@@ -12,8 +12,7 @@ namespace magic_year
             var informationAsker = new InformationAsker();
             var personalData = informationAsker.MagicDetails();
             var informationOutput = new InformationOutput();
-            informationOutput.MagicSlip(personalData);          
-            var informationStorer = new InformationStorer(); 
+            informationOutput.MagicSlip(personalData);
         }
     }
 }

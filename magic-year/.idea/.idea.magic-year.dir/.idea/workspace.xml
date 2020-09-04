@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa641366-3f74-479f-a56f-0ce2dfe459fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InformationAsker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationAsker.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
@@ -45,9 +44,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Person.cs" />
-        <option value="$PROJECT_DIR$/InformationAsker.cs" />
-        <option value="$PROJECT_DIR$/InformationStorer.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/InformationStorer.cs" />
+        <option value="$PROJECT_DIR$/InformationAsker.cs" />
       </list>
     </option>
   </component>
@@ -96,6 +95,7 @@
       <workItem from="1599046086540" duration="1738000" />
       <workItem from="1599103020102" duration="7250000" />
       <workItem from="1599142029648" duration="1202000" />
+      <workItem from="1599181414300" duration="2630000" />
     </task>
     <servers />
   </component>
