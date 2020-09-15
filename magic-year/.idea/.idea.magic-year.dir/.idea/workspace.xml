@@ -23,13 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa641366-3f74-479f-a56f-0ce2dfe459fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/.idea/.idea.basic-coding.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/.idea/.idea.basic-coding.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InformationAsker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationAsker.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InformationOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationOutput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InformationStorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationStorer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +49,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Person.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
-        <option value="$PROJECT_DIR$/InformationStorer.cs" />
-        <option value="$PROJECT_DIR$/InformationAsker.cs" />
+        <option value="$PROJECT_DIR$/Experiment.cs" />
+        <option value="$PROJECT_DIR$/InfoInterface.cs" />
+        <option value="$PROJECT_DIR$/UserContentInterface.cs" />
+        <option value="$PROJECT_DIR$/ClassToInheritInterface.cs" />
         <option value="$PROJECT_DIR$/PersonalData.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/IUserContentInterface.cs" />
+        <option value="$PROJECT_DIR$/InformationStorer.cs" />
+        <option value="$PROJECT_DIR$/InformationOutput.cs" />
+        <option value="$PROJECT_DIR$/InformationAsker.cs" />
       </list>
     </option>
   </component>
@@ -59,7 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
     <configuration name="magic-year" type="DotNetProject" factoryName=".NET Project">
@@ -96,7 +108,16 @@
       <workItem from="1599103020102" duration="7250000" />
       <workItem from="1599142029648" duration="1202000" />
       <workItem from="1599181414300" duration="4623000" />
-      <workItem from="1599433787609" duration="435000" />
+      <workItem from="1599433787609" duration="6427000" />
+      <workItem from="1599457025774" duration="10079000" />
+      <workItem from="1599518890147" duration="8743000" />
+      <workItem from="1599620586285" duration="30000" />
+      <workItem from="1599649972406" duration="2036000" />
+      <workItem from="1599691569602" duration="2357000" />
+      <workItem from="1599777116233" duration="1402000" />
+      <workItem from="1600044323775" duration="2142000" />
+      <workItem from="1600070775334" duration="137000" />
+      <workItem from="1600208072604" duration="1143000" />
     </task>
     <servers />
   </component>
@@ -121,6 +142,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="554" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599531503801">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="554" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1599531503801" />
     <state width="1610" height="274" key="GridCell.Tab.0.bottom" timestamp="1599190616560">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
@@ -145,12 +170,17 @@
     <state width="1790" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629634" />
     <state width="1569" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575665" />
     <state width="1610" height="274" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1599190616560" />
-    <state x="330" y="23" width="1350" height="1027" key="SettingsEditor" timestamp="1599046093537">
-      <screen x="56" y="23" width="1624" height="1027" />
+    <state x="283" y="0" width="1350" height="1027" key="SettingsEditor" timestamp="1599650047625">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="-1503" y="23" width="1392" height="1057" key="SettingsEditor/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599019044950" />
-    <state x="283" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1599046062490" />
+    <state x="283" y="23" key="SettingsEditor/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599480339303" />
+    <state x="283" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1599650047625" />
     <state x="330" y="23" width="1350" height="1027" key="SettingsEditor/56.23.1624.1027@56.23.1624.1027" timestamp="1599046093537" />
+    <state x="100" y="123" width="626" height="827" key="VCS.FileHistoryDialog" timestamp="1599560908183">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="100" y="123" width="626" height="827" key="VCS.FileHistoryDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1599560908183" />
     <state x="-1150" y="412" width="810" height="323" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599019041812">
       <screen x="-1864" y="23" width="1864" height="1057" />
     </state>

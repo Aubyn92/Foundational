@@ -5,19 +5,35 @@ using System.Collections.Generic;
 
 namespace magic_year
 {
-    class InformationStorer
+    // CLASS NAME
+    public class InformationStorer : IUserContentInterface
     {
+        // CONSTRUCTOR
+        public InformationStorer (IUserContentInterface informationStorer)
+        {
+            this.informationStorer = informationStorer;
+        }
+
+        // INTERFACE IMPLEMENTED
+        // void WriteLine(string prompt)
+        // {
+            // informationStorer.WriteLine();
+        // }
+        
+        // perhaps a private func for inout validation
+        // public at top, private at bottom
+        
         public string ReadString(string prompt)
         {
-            Console.Write(prompt);
-            string read = Console.ReadLine();
-
+        Console.Write(prompt);
+        string read = Console.ReadLine();
+        
             while (string.IsNullOrEmpty(read) || (!Regex.IsMatch(read, @"^[a-zA-Z]+$")))
-            {
-                Console.WriteLine("Invalid input. Input your name again: ");
-                read = Console.ReadLine();
-            }
-            return read;
+        {
+            Console.WriteLine("Invalid input. Input your name again: ");
+            read = Console.ReadLine();
+        }
+        return read;
         }
 
         public decimal ReadDecimal(string prompt)

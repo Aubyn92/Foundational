@@ -25,12 +25,17 @@
     <list default="true" id="12800a4d-1f31-4651-875b-479cc6aae21c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ABC.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ABC.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ABC.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ABC.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alphabet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Alphabet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/ABC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/ABC.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/ABC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/ABC.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/.idea/.idea.basic-coding.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/.idea/.idea.basic-coding.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-coding/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-coding/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationAsker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationAsker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationOutput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationStorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationStorer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +95,7 @@
       <updated>1598410063822</updated>
       <workItem from="1598410070093" duration="3888000" />
       <workItem from="1598566535804" duration="1404000" />
+      <workItem from="1600046128533" duration="742000" />
     </task>
     <servers />
   </component>
