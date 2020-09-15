@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace magic_year
 {
-    class InformationOutput
+    public class InformationOutput
     {
         public void MagicSlip(PersonalData person)
         {

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace magic_year
 {
-    class InformationAsker
+    public class InformationAsker
     {
         public PersonalData MagicDetails()
         {

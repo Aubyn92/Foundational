@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/experiment/bin/Debug/netcoreapp3.1/experiment.deps.json
+/Users/alivia.sherwood/Desktop/foundational/experiment/bin/Debug/netcoreapp3.1/experiment.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/experiment/bin/Debug/netcoreapp3.1/experiment.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/experiment/bin/Debug/netcoreapp3.1/experiment.dll
+/Users/alivia.sherwood/Desktop/foundational/experiment/bin/Debug/netcoreapp3.1/experiment.pdb
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.dll
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.pdb
+/Users/alivia.sherwood/Desktop/foundational/experiment/obj/Debug/netcoreapp3.1/experiment.genruntimeconfig.cache

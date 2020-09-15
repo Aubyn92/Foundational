@@ -23,19 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca5be81-dc04-465b-9cce-333e5a9369ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/.idea/.idea.ABC.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ABC/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ABC/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.basic-coding.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.basic-coding.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreetBobOrAlice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GreetBobOrAlice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greeting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuessTheNumber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GuessTheNumber.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiply.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Multiply.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfNum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfNum.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwentyLeapYears.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TwentyLeapYears.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/basic-coding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/basic-coding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/basic-coding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/basic-coding.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/basic-coding.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationAsker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationAsker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationOutput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/InformationStorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/InformationStorer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598235291710</updated>
       <workItem from="1598235298074" duration="10507000" />
+      <workItem from="1600044093726" duration="1406000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -114,6 +115,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
