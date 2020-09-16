@@ -1,15 +1,18 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class WinningLogic
+    public class WinningLogic
     {
-        static void ComparePlayer()
+        private void ComparePlayer()
         {
             Console.WriteLine("Hello World!");
         }
 
-        static void CompareDealer()
+        private void CompareDealer()
         {
             Console.WriteLine("Hello World!");
         }

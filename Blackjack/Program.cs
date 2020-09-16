@@ -1,8 +1,11 @@
 ﻿using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

@@ -1,10 +1,13 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class PlayerOutput
+    public class PlayerOutput
     {
-        static void Printsum()
+        public void Printsum()
         {
             Console.WriteLine("Hello World!");
         }

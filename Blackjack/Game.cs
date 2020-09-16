@@ -1,20 +1,23 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class Game
+    public class Game
     {
-        static void Start()
+        public void Start()
         {
             Console.WriteLine("Hello World!");
         }
 
-        static void CheckForWinner()
+        public void CheckForWinner()
         {
             Console.WriteLine("Hello World!");
         }
 
-        static void CheckForGameEnd()
+        public void CheckForGameEnd()
         {
             Console.WriteLine("Hello World!");
         }
