@@ -1,17 +1,20 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class Deck
+    public class Deck
     {
-        static void Shuffle()
+        public void Shuffle()
         {
-            Console.WriteLine("Hello World!");
+            
         }
 
-        static void DrawCard()
+        public void DrawCard()
         {
-            Console.WriteLine("Hello World!");
+ 
         }
     }
 }

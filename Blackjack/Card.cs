@@ -1,12 +1,28 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class Card
+    public class Card
     {
-        static void FormatCardString(string[] args)
+        private enum Value
+        {
+            
+        }
+
+        private enum Suit
+        {
+            Spades,
+            Clubs,
+            Diamonds,
+            Hearts
+        }
+        public string FormatCardString()
         {
             Console.WriteLine("Hello World!");
+            return "";
         }
     }
 }

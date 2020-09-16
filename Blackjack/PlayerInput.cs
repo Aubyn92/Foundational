@@ -1,15 +1,19 @@
 using System;
+using System.IO;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Blackjack
 {
-    class PlayerInput
+    public class PlayerInput
     {
-        static void Ask()
+        private string input;
+        private void Ask()
         {
             Console.WriteLine("Hello World!");
         }
 
-        static void CollectInput()
+        public void CollectInput()
         {
             Console.WriteLine("Hello World!");
         }
