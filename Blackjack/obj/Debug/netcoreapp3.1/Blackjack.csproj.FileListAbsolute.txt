@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/bin/Debug/netcoreapp3.1/Blackjack.deps.json
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/bin/Debug/netcoreapp3.1/Blackjack.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/bin/Debug/netcoreapp3.1/Blackjack.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/bin/Debug/netcoreapp3.1/Blackjack.dll
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/bin/Debug/netcoreapp3.1/Blackjack.pdb
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.dll
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.pdb
+/Users/alivia.sherwood/Desktop/foundational/Blackjack/obj/Debug/netcoreapp3.1/Blackjack.genruntimeconfig.cache

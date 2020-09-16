@@ -7,12 +7,24 @@ namespace Blackjack
 {
     public class Player
     {
-        private string name;
-        private bool IsDealer;
-        public List<string> Card;
+        private string Name { get; set; }
+        private bool IsDealer { get; set; }
+        public List<Card> CardsInHand;
+        
+        public Player(string name, bool isDealer, List<Card> cardsInHand)
+        {
+            Name = name;
+            IsDealer = isDealer;
+            CardsInHand = cardsInHand;
+        }
+
         public void PrintHandCard()
         {
-            Console.WriteLine("Hello World!");
+            foreach(var card in CardsInHand)
+            {
+                var cardString = card.FormatCardString();
+                Console.WriteLine(cardString);
+            }
         }
     }
 }
