@@ -7,9 +7,9 @@ namespace Blackjack
 {
     public class Calculator
     {
-        private void SumUpHandCard()
+        private int SumUpHandCard(List<Card> cards)
         {
-            Console.WriteLine("Hello World!");
+            return 3;
         }
     }
 }

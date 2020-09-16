@@ -9,7 +9,18 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Card firstCard = new Card(Suit.Diamonds, Value.Eight);
+            Card secondCard = new Card(Suit.Hearts, Value.Seven);
+            Card thirdCard = new Card(Suit.Spades, Value.Nine);
+            List<Card> newList = new List<Card>();
+            newList.Add(firstCard);
+            newList.Add(secondCard);
+            newList.Add(thirdCard);
+            var newString = firstCard.FormatCardString();
+            Console.WriteLine("Welcome to Blackjack!");
+            // Console.WriteLine(newString);
+            Player newPlayer = new Player(name: "Liv", isDealer: false, cardsInHand: newList);
+            newPlayer.PrintHandCard();
         }
     }
 }

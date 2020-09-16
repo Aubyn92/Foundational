@@ -23,18 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Deck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerOutput.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WinningLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinningLogic.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Blackjack.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Blackjack.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,15 +42,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Calculator.cs" />
         <option value="$PROJECT_DIR$/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/PlayerOutput.cs" />
         <option value="$PROJECT_DIR$/WinningLogic.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
-        <option value="$PROJECT_DIR$/Player.cs" />
         <option value="$PROJECT_DIR$/Game.cs" />
         <option value="$PROJECT_DIR$/Deck.cs" />
+        <option value="$PROJECT_DIR$/Calculator.cs" />
         <option value="$PROJECT_DIR$/Card.cs" />
+        <option value="$PROJECT_DIR$/Player.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -99,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600210737178</updated>
-      <workItem from="1600210739899" duration="3674000" />
+      <workItem from="1600210739899" duration="9546000" />
     </task>
     <servers />
   </component>
@@ -121,5 +115,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1656" height="273" key="GridCell.Tab.0.bottom" timestamp="1600228930642">
+      <screen x="-1864" y="23" width="1864" height="1057" />
+    </state>
+    <state width="1656" height="273" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930642" />
+    <state width="1656" height="273" key="GridCell.Tab.0.center" timestamp="1600228930641">
+      <screen x="-1864" y="23" width="1864" height="1057" />
+    </state>
+    <state width="1656" height="273" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930641" />
+    <state width="1656" height="273" key="GridCell.Tab.0.left" timestamp="1600228930640">
+      <screen x="-1864" y="23" width="1864" height="1057" />
+    </state>
+    <state width="1656" height="273" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930640" />
+    <state width="1656" height="273" key="GridCell.Tab.0.right" timestamp="1600228930642">
+      <screen x="-1864" y="23" width="1864" height="1057" />
+    </state>
+    <state width="1656" height="273" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930642" />
   </component>
 </project>
