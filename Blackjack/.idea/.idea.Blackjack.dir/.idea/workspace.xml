@@ -24,11 +24,42 @@
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Deck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerInput.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/ConsoleOutputWriter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/FancyOutputWriter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/HelloWorld.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/IOutputWriterInterface.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/bin/Debug/netcoreapp3.1/experiment.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/bin/Debug/netcoreapp3.1/experiment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/bin/Debug/netcoreapp3.1/experiment.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/bin/Debug/netcoreapp3.1/experiment.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/bin/Debug/netcoreapp3.1/experiment.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/experiment.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/Debug/netcoreapp3.1/experiment.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/experiment.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/experiment.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/experiment.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../experiment/obj/project.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +73,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/PlayerOutput.cs" />
         <option value="$PROJECT_DIR$/WinningLogic.cs" />
-        <option value="$PROJECT_DIR$/Game.cs" />
-        <option value="$PROJECT_DIR$/Deck.cs" />
         <option value="$PROJECT_DIR$/Calculator.cs" />
         <option value="$PROJECT_DIR$/Card.cs" />
         <option value="$PROJECT_DIR$/Player.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Deck.cs" />
       </list>
     </option>
   </component>
@@ -93,14 +124,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600210737178</updated>
-      <workItem from="1600210739899" duration="9546000" />
+      <workItem from="1600210739899" duration="14533000" />
+      <workItem from="1600308669967" duration="1859000" />
+      <workItem from="1600401584855" duration="4000000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -112,26 +145,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1656" height="273" key="GridCell.Tab.0.bottom" timestamp="1600228930642">
-      <screen x="-1864" y="23" width="1864" height="1057" />
+    <state width="1156" height="263" key="GridCell.Tab.0.bottom" timestamp="1600404718909">
+      <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1656" height="273" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930642" />
-    <state width="1656" height="273" key="GridCell.Tab.0.center" timestamp="1600228930641">
-      <screen x="-1864" y="23" width="1864" height="1057" />
+    <state width="1811" height="273" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600232678545" />
+    <state width="1610" height="263" key="GridCell.Tab.0.bottom/52.23.1628.1027@52.23.1628.1027" timestamp="1600303871590" />
+    <state width="1018" height="263" key="GridCell.Tab.0.bottom/54.23.1626.1027@54.23.1626.1027" timestamp="1600403012007" />
+    <state width="1156" height="263" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1600404718909" />
+    <state width="1156" height="263" key="GridCell.Tab.0.center" timestamp="1600404718908">
+      <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1656" height="273" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930641" />
-    <state width="1656" height="273" key="GridCell.Tab.0.left" timestamp="1600228930640">
-      <screen x="-1864" y="23" width="1864" height="1057" />
+    <state width="1811" height="273" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600232678544" />
+    <state width="1610" height="263" key="GridCell.Tab.0.center/52.23.1628.1027@52.23.1628.1027" timestamp="1600303871589" />
+    <state width="1018" height="263" key="GridCell.Tab.0.center/54.23.1626.1027@54.23.1626.1027" timestamp="1600403012005" />
+    <state width="1156" height="263" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1600404718908" />
+    <state width="1156" height="263" key="GridCell.Tab.0.left" timestamp="1600404718908">
+      <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1656" height="273" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930640" />
-    <state width="1656" height="273" key="GridCell.Tab.0.right" timestamp="1600228930642">
-      <screen x="-1864" y="23" width="1864" height="1057" />
+    <state width="1811" height="273" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600232678544" />
+    <state width="1610" height="263" key="GridCell.Tab.0.left/52.23.1628.1027@52.23.1628.1027" timestamp="1600303871589" />
+    <state width="1018" height="263" key="GridCell.Tab.0.left/54.23.1626.1027@54.23.1626.1027" timestamp="1600403012005" />
+    <state width="1156" height="263" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1600404718908" />
+    <state width="1156" height="263" key="GridCell.Tab.0.right" timestamp="1600404718909">
+      <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1656" height="273" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600228930642" />
+    <state width="1811" height="273" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1600232678545" />
+    <state width="1610" height="263" key="GridCell.Tab.0.right/52.23.1628.1027@52.23.1628.1027" timestamp="1600303871589" />
+    <state width="1018" height="263" key="GridCell.Tab.0.right/54.23.1626.1027@54.23.1626.1027" timestamp="1600403012006" />
+    <state width="1156" height="263" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1600404718909" />
   </component>
 </project>
