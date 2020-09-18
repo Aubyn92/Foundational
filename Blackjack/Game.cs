@@ -9,7 +9,7 @@ namespace Blackjack
     {
         public void Start()
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
         }
 
         public void CheckForWinner()

@@ -10,12 +10,14 @@ namespace Blackjack
         private string input;
         private void Ask()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hit or stay? (Hit = 1, Stay = 0)");
         }
 
-        public void CollectInput()
+        public int CollectInput()
         {
-            Console.WriteLine("Hello World!");
+            Ask();
+            var playerChosenInput = Console.ReadLine();
+            return int.Parse(playerChosenInput);
         }
     }
 }
