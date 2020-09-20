@@ -23,18 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa641366-3f74-479f-a56f-0ce2dfe459fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Blackjack/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Deck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Blackjack/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Game.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/PlayerInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/PlayerOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/PlayerOutput.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Blackjack/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/WinningLogic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/WinningLogic.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/obj/Blackjack.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/obj/Blackjack.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/bin/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/bin/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/bin/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/bin/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/obj/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +113,7 @@
       <workItem from="1600044323775" duration="2142000" />
       <workItem from="1600070775334" duration="137000" />
       <workItem from="1600208072604" duration="1561000" />
-      <workItem from="1600210957911" duration="1772000" />
+      <workItem from="1600210957911" duration="1957000" />
     </task>
     <servers />
   </component>
