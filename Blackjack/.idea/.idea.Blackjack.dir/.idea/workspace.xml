@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../magic-year/UserContentIo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/IUserContentInterface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/IUserContentInterface.cs" afterDir="false" />
@@ -34,9 +35,12 @@
       <change beforePath="$PROJECT_DIR$/../magic-year/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/bin/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/bin/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/bin/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/bin/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magic-year/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +55,13 @@
       <list>
         <option value="$PROJECT_DIR$/PlayerOutput.cs" />
         <option value="$PROJECT_DIR$/WinningLogic.cs" />
+        <option value="$PROJECT_DIR$/Calculator.cs" />
         <option value="$PROJECT_DIR$/Player.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
         <option value="$PROJECT_DIR$/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Card.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Deck.cs" />
-        <option value="$PROJECT_DIR$/Calculator.cs" />
-        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +109,6 @@
       <workItem from="1600401584855" duration="10033000" />
       <workItem from="1600603724853" duration="2437000" />
       <workItem from="1600642369956" duration="617000" />
-      <workItem from="1600741320611" duration="2858000" />
     </task>
     <servers />
   </component>
