@@ -9,11 +9,11 @@ namespace magic_year
         {
             static void Main()
             {
+                var userContentIo = new UserContentIo();
                 var informationAsker = new InformationAsker();
-                var personalData = informationAsker.MagicDetails();
+                var personalData = informationAsker.MagicDetails(userContentIo);
                 var informationOutput = new InformationOutput();
-                informationOutput.MagicSlip(personalData);
-                // InformationStorer informationStorer = new InformationStorer();
+                informationOutput.MagicSlip(personalData, userContentIo);
             }
         }
     }
