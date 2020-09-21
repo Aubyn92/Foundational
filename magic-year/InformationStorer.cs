@@ -5,49 +5,40 @@ using System.Collections.Generic;
 
 namespace magic_year
 {
-    // CLASS NAME
-    public class InformationStorer : IUserContentInterface
+    public class InformationStorer
     {
-        // CONSTRUCTOR
-        public InformationStorer (IUserContentInterface informationStorer)
+        private readonly IUserContentInterface _userContentIo;
+        
+        public InformationStorer (IUserContentInterface userContentIo)
         {
-            this.informationStorer = informationStorer;
+            _userContentIo = userContentIo;
         }
 
-        // INTERFACE IMPLEMENTED
-        // void WriteLine(string prompt)
-        // {
-            // informationStorer.WriteLine();
-        // }
-        
-        // perhaps a private func for inout validation
-        // public at top, private at bottom
-        
         public string ReadString(string prompt)
-        {
-        Console.Write(prompt);
-        string read = Console.ReadLine();
+        { 
+            _userContentIo.WriteLine(prompt);
+        string read = _userContentIo.ReadLine();
         
             while (string.IsNullOrEmpty(read) || (!Regex.IsMatch(read, @"^[a-zA-Z]+$")))
         {
-            Console.WriteLine("Invalid input. Input your name again: ");
-            read = Console.ReadLine();
+            _userContentIo.WriteLine("Invalid input. Input your name again: ");
+            read = _userContentIo.ReadLine();
         }
         return read;
         }
 
         public decimal ReadDecimal(string prompt)
         {
-            Console.Write(prompt);
+            _userContentIo.WriteLine(prompt);
             decimal readDec = 0.0M;
             bool success = false;
             while (!success)
             {
-                var readDecString = Console.ReadLine();
+                var readDecString = _userContentIo.ReadLine();
                 success = decimal.TryParse(readDecString, out readDec);
                 if (!success)
                 {
-                    Console.WriteLine("Not a number, please try again: ");
+                    _userContentIo.WriteLine("Not a number, please try again: ");
                 }
             }
             return readDec;
@@ -55,16 +46,16 @@ namespace magic_year
 
         public int ReadInt(string prompt)
         {
-            Console.Write(prompt);
+            _userContentIo.WriteLine(prompt);
             int readNum = 0;
             bool success = false;
             while (!success)
             {
-                var readNumString = Console.ReadLine();
+                var readNumString = _userContentIo.ReadLine();
                 success = int.TryParse(readNumString, out readNum);
                 if (!success)
                 {
-                    Console.WriteLine("Not a number, please try again: ");
+                    _userContentIo.WriteLine("Not a number, please try again: ");
                 }
             }
             return readNum;
