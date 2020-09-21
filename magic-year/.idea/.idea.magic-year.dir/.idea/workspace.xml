@@ -19,24 +19,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:magic" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa641366-3f74-479f-a56f-0ce2dfe459fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UserContentIo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IUserContentInterface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IUserContentInterface.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InformationAsker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationAsker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InformationOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationOutput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InformationStorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/InformationStorer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/magic-year.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +57,7 @@
         <option value="$PROJECT_DIR$/InformationAsker.cs" />
         <option value="$PROJECT_DIR$/InformationOutput.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -123,7 +117,7 @@
       <workItem from="1600044323775" duration="2142000" />
       <workItem from="1600070775334" duration="137000" />
       <workItem from="1600208072604" duration="1143000" />
-      <workItem from="1600665060742" duration="2270000" />
+      <workItem from="1600665060742" duration="3088000" />
     </task>
     <servers />
   </component>
@@ -137,7 +131,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="magic" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -152,30 +158,30 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="554" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1599531503801" />
-    <state width="1610" height="274" key="GridCell.Tab.0.bottom" timestamp="1599190616560">
+    <state width="1475" height="274" key="GridCell.Tab.0.bottom" timestamp="1600667418660">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state width="1790" height="265" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629635" />
     <state width="1569" height="265" key="GridCell.Tab.0.bottom/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575666" />
-    <state width="1610" height="274" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1599190616560" />
-    <state width="1610" height="274" key="GridCell.Tab.0.center" timestamp="1599190616560">
+    <state width="1475" height="274" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1600667418660" />
+    <state width="1475" height="274" key="GridCell.Tab.0.center" timestamp="1600667418659">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state width="1790" height="265" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629634" />
     <state width="1569" height="265" key="GridCell.Tab.0.center/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575665" />
-    <state width="1610" height="274" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1599190616560" />
-    <state width="1610" height="274" key="GridCell.Tab.0.left" timestamp="1599190616560">
+    <state width="1475" height="274" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1600667418659" />
+    <state width="1475" height="274" key="GridCell.Tab.0.left" timestamp="1600667418658">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state width="1790" height="265" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629633" />
     <state width="1569" height="265" key="GridCell.Tab.0.left/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575664" />
-    <state width="1610" height="274" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1599190616560" />
-    <state width="1610" height="274" key="GridCell.Tab.0.right" timestamp="1599190616560">
+    <state width="1475" height="274" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1600667418658" />
+    <state width="1475" height="274" key="GridCell.Tab.0.right" timestamp="1600667418659">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state width="1790" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1599047629634" />
     <state width="1569" height="265" key="GridCell.Tab.0.right/-1864.23.1864.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599108575665" />
-    <state width="1610" height="274" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1599190616560" />
+    <state width="1475" height="274" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1600667418659" />
     <state x="283" y="0" width="1350" height="1027" key="SettingsEditor" timestamp="1599650047625">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
