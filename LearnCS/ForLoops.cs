@@ -4,9 +4,21 @@ namespace LearnCS
 {
     class ForLoops
     {
-        static void Main(string[] args)
+        public void Loop()
         {
-            Console.WriteLine("Hello World!");
+            string x = "Hi";
+            int n = 10;
+
+            for (int i = 0; i <= 10; i++)
+            {
+                if (n == 10)
+                {
+                    break;
+                }
+
+                Console.WriteLine(x);
+
+            }
         }
     }
 }

@@ -7,8 +7,8 @@ namespace LearnCS
     {
         public void PrimeNumList()
         {
-            List<int> primeNumbers = new List<int>();
-            int[] array = new int[] { 2, 3, 5, 7, 11 };
+            var primeNumbers = new List<int>();
+            int[] array = new int[] { 1, 2, 3 };
             primeNumbers.AddRange(array);
         }
     }

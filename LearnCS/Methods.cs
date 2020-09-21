@@ -4,9 +4,9 @@ namespace LearnCS
 {
     class Methods
     {
-        static void Main(string[] args)
+        public static int DivideMethod(int a, int b)
         {
-            Console.WriteLine("Hello World!");
+            return a / b;
         }
     }
 }

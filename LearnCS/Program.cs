@@ -5,7 +5,7 @@ namespace LearnCS
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Lists()
         {
             var types = new VariablesAndTypes();
             types.Variables();
@@ -16,8 +16,13 @@ namespace LearnCS
             var myArray = new Arrays();
             myArray.FruitsArray();
 
-            List<int> primeNumbers = new List<int>();
-            primeNumbers.PrimeNumList();
+            // var primeNumbers = new List<int>();
+            // primeNumbers.AddRange();
+
+            // var inventory = new Dictionary<string, long>();
+
+            var name = new Strings();
+            name.NameFormatting();
         }
     }
 }

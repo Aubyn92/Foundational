@@ -1,12 +1,16 @@
 using System;
+using System.Collections.Generic;
 
 namespace LearnCS
 {
     class Dictionaries
     {
-        static void Main(string[] args)
+        public void FruitDictionary()
         {
-            Console.WriteLine("Hello World!");
+            var inventory = new Dictionary<string, long>();
+            inventory.Add("apple", 3);
+            inventory.Add("orange", 5);
+            inventory.Add("banana", 2);
         }
     }
 }
