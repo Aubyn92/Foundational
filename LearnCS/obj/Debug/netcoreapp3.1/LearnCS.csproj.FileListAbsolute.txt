@@ -1,0 +1,4 @@
+/Users/alivia.sherwood/Desktop/foundational/LearnCS/obj/Debug/netcoreapp3.1/LearnCS.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/LearnCS/obj/Debug/netcoreapp3.1/LearnCS.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/LearnCS/obj/Debug/netcoreapp3.1/LearnCS.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/LearnCS/obj/Debug/netcoreapp3.1/LearnCS.csproj.CoreCompileInputs.cache

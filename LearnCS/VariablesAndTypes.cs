@@ -4,9 +4,12 @@ namespace LearnCS
 {
     class VariablesAndTypes
     {
-        static void Main(string[] args)
+        public void Variables()
         {
-            Console.WriteLine("Hello World!");
+            string productName = "TV";
+            int productYear = 2012;
+            float productPrice = 279.99f;
+            Console.WriteLine($"{productName}, {productYear}, {productPrice}");
         }
     }
 }

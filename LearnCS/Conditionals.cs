@@ -4,9 +4,13 @@ namespace LearnCS
 {
     class Conditionals
     {
-        static void Main(string[] args)
+        public void Bool()
         {
-            Console.WriteLine("Hello World!");
+            int guess = 500;
+            if (guess == 500)
+            {
+                Console.WriteLine("Success!");
+            }
         }
     }
 }
