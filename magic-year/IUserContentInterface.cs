@@ -1,6 +1,6 @@
 namespace magic_year
 {
-    interface IUserContentInterface
+    public interface IUserContentInterface
     {
         void WriteLine(string prompt);
         string ReadLine();

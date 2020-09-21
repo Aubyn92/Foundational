@@ -1,6 +1,6 @@
 namespace magic_year
 {
-    class PersonalData
+    public class PersonalData
     {
         // data members:
         private string _firstName;

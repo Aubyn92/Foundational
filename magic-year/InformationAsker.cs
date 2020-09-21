@@ -7,10 +7,10 @@ namespace magic_year
 {
     public class InformationAsker
     {
-        public PersonalData MagicDetails()
+        public PersonalData MagicDetails(IUserContentInterface userContentIo)
         {
-            Console.WriteLine("Welcome to the Magic Year Calculator!\n");
-            var informationStorer = new InformationStorer();
+            userContentIo.WriteLine("Welcome to the Magic Year Calculator!\n");
+            var informationStorer = new InformationStorer(userContentIo);
             string firstName = informationStorer.ReadString("Enter your first name: ");
             string surname = informationStorer.ReadString("Enter your surname: ");
             decimal annualSalary = informationStorer.ReadDecimal("Enter your annual salary: $");
