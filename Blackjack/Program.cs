@@ -14,9 +14,9 @@ namespace Blackjack
             Card thirdCard = new Card(Suit.Spades, Value.Nine);
             
             List<Card> newList = new List<Card>();
-            newList.Add(firstCard);
-            newList.Add(secondCard);
-            newList.Add(thirdCard);
+            // newList.Add(firstCard);
+            // newList.Add(secondCard);
+            // newList.Add(thirdCard);
             
             Console.WriteLine("Welcome to Blackjack!");
             
@@ -24,8 +24,11 @@ namespace Blackjack
             newPlayer.PrintHandCard();
             
             var shuffledCards = new Deck();
-            shuffledCards.CreateADeck();
-            
+            var newListOfCards = shuffledCards.CreateADeck();
+            var lastCardInList = newListOfCards[51];
+            var randomCard = shuffledCards.DrawCard(newListOfCards);
+            Console.WriteLine(randomCard.FormatCardString());
+
             var playerChosenInput = new PlayerInput();
             playerChosenInput.CollectInput();
         }
