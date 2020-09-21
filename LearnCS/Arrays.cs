@@ -4,9 +4,9 @@ namespace LearnCS
 {
     class Arrays
     {
-        static void Main(string[] args)
+        public void FruitsArray()
         {
-            Console.WriteLine("Hello World!");
+            string[] fruits = { "apple", "banana", "orange" };
         }
     }
 }

@@ -1,12 +1,15 @@
 using System;
+using System.Collections.Generic;
 
 namespace LearnCS
 {
     class Lists
     {
-        static void Main(string[] args)
+        public void PrimeNumList()
         {
-            Console.WriteLine("Hello World!");
+            List<int> primeNumbers = new List<int>();
+            int[] array = new int[] { 2, 3, 5, 7, 11 };
+            primeNumbers.AddRange(array);
         }
     }
 }
