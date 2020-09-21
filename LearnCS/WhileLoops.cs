@@ -4,9 +4,17 @@ namespace LearnCS
 {
     class WhileLoops
     {
-        static void Main(string[] args)
+        public void WhileLoop()
         {
-            Console.WriteLine("Hello World!");
+            string x = "Hi";
+            int n = 10;
+
+            int i = 0;
+            while (i < n)
+            {
+                Console.WriteLine(x);
+                i++;
+            }
         }
     }
 }

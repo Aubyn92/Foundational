@@ -4,9 +4,12 @@ namespace LearnCS
 {
     class Strings
     {
-        static void Main(string[] args)
+        public void NameFormatting()
         {
-            Console.WriteLine("Hello World!");
+            string firstName = "John";
+            string lastName = "Doe";
+            int age = 27;
+            string sentence = String.Format("{0} {1} is {2} years old.", firstName, lastName, age);
         }
     }
 }
