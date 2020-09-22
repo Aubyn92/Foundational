@@ -28,5 +28,7 @@ namespace Blackjack
             var randomCard = newListOfCards[cardInt];
             return randomCard;
         }
+         // # issue the player and dealer their first two cards:
+        // player_hand = [deck.pop(), deck.pop()]
     }
 }
