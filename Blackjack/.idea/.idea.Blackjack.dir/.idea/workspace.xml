@@ -24,13 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Deck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +44,13 @@
       <list>
         <option value="$PROJECT_DIR$/PlayerOutput.cs" />
         <option value="$PROJECT_DIR$/WinningLogic.cs" />
-        <option value="$PROJECT_DIR$/Calculator.cs" />
         <option value="$PROJECT_DIR$/Player.cs" />
-        <option value="$PROJECT_DIR$/Game.cs" />
         <option value="$PROJECT_DIR$/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Card.cs" />
-        <option value="$PROJECT_DIR$/Deck.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Deck.cs" />
+        <option value="$PROJECT_DIR$/Calculator.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
       </list>
     </option>
   </component>
@@ -99,6 +98,7 @@
       <workItem from="1600401584855" duration="10033000" />
       <workItem from="1600603724853" duration="2437000" />
       <workItem from="1600642369956" duration="617000" />
+      <workItem from="1600741320611" duration="2858000" />
     </task>
     <servers />
   </component>
