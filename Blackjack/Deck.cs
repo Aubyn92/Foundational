@@ -24,11 +24,9 @@ namespace Blackjack
         public Card DrawCard(List<Card> newListOfCards)
         {
             Random rnd = new Random();
-            int cardInt = rnd.Next(52);
+            int cardInt = rnd.Next(newListOfCards.Count);
             var randomCard = newListOfCards[cardInt];
             return randomCard;
         }
-         // # issue the player and dealer their first two cards:
-        // player_hand = [deck.pop(), deck.pop()]
     }
 }
