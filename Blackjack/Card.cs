@@ -46,5 +46,18 @@ namespace Blackjack
             var newString = ($"[{Rank.ToString()}, {Type.ToString()}]");
             return newString;
         }
+
+        public List<Card> CardValue()
+        {
+            Card = Value
+                if v
+            
+            if rank in ranks[0:-4]:
+            return int(rank)
+            elif rank is 'ACE':
+            return 11
+            else:
+            return 10
+        }
     }
 }
