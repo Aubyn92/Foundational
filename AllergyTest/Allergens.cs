@@ -1,6 +1,9 @@
+using System;
+using System.Collections.Generic;
+
 namespace AllergyTest
 {
-    public enum AllergyList  //list of items and their value
+    public enum Allergens  
     {
         Eggs = 1,
         Peanuts = 2,
@@ -11,4 +14,9 @@ namespace AllergyTest
         Pollen = 64, 
         Cats = 128
     }
+
+    // public class Allergens
+    // {
+    //     List<string> allergies = new List<string>();
+    // } 
 }

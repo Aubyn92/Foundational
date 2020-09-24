@@ -5,8 +5,9 @@
       <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Blackjack.csproj" t="IncludeRecursive" />
-      <e p="Calculator.cs" t="Include" />
       <e p="Card.cs" t="Include" />
+      <e p="CardFace.cs" t="Include" />
+      <e p="Dealer.cs" t="Include" />
       <e p="Deck.cs" t="Include" />
       <e p="Game.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
@@ -17,13 +18,14 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="Person.cs" t="Include" />
       <e p="Player.cs" t="Include" />
       <e p="PlayerInput.cs" t="Include" />
       <e p="PlayerOutput.cs" t="Include" />
       <e p="Program.cs" t="Include" />
-      <e p="WinningLogic.cs" t="Include" />
+      <e p="Suit.cs" t="Include" />
     </e>
     <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_.19.01" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_.19.00" t="ExcludeRecursive" />
   </component>
 </project>

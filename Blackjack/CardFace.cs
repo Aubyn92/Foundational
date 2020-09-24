@@ -1,7 +1,19 @@
-namespace Blackjack
+namespace BlackJack
 {
-    public class CardFace
+    public enum CardFace
     {
-        
+        Ace,
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King
     }
 }
