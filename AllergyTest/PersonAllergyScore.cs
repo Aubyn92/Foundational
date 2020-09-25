@@ -5,8 +5,6 @@ namespace AllergyTest
 {
     public class PersonAllergyScore
     {
-
-    
         List<string> allergyList = new List<string>();
         
         public PersonAllergyScore(int result)
@@ -18,10 +16,9 @@ namespace AllergyTest
                         allergyList.Add(name.ToString());
                     }
                 }
-                // Console.WriteLine(Enum.GetName(typeof(Allergens), result) + "");
             }
         
-            public List<string> List()
+        public List<string> List()
             {
                 return allergyList;
             }
