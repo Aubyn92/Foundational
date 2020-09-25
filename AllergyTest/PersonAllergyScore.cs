@@ -5,34 +5,25 @@ namespace AllergyTest
 {
     public class PersonAllergyScore
     {
-        public int AllergyTest()
+
+    
+        List<string> allergyList = new List<string>();
+        
+        public PersonAllergyScore(int result)
             {
-                List<string> allergyList = new List<string>();
                 foreach (Allergens name in Enum.GetValues(typeof(Allergens)))
                 {
-                    if ((Allergens name & ) != 0)
+                    if (((int)name & result) != 0)
                     {
-                        AllergyList.Add(allergen.ToString());
+                        allergyList.Add(name.ToString());
                     }
                 }
+                // Console.WriteLine(Enum.GetName(typeof(Allergens), result) + "");
             }
-
-            public bool IsAllergic(List<string> allergy)
-            {
-                // if statement returning true/ false for whether allergyList contains allergy item
-                if (allergies.Contains(allergy))
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-
+        
             public List<string> List()
             {
-                return allergies;
+                return allergyList;
             }
     }
 }

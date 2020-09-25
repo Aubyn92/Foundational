@@ -14,9 +14,4 @@ namespace AllergyTest
         Pollen = 64, 
         Cats = 128
     }
-
-    // public class Allergens
-    // {
-    //     List<string> allergies = new List<string>();
-    // } 
 }
