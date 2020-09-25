@@ -3,34 +3,46 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 
-namespace Blackjack
+namespace BlackJack
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Card firstCard = new Card(Suit.Diamonds, Value.Eight);
-            Card secondCard = new Card(Suit.Hearts, Value.Seven);
-            Card thirdCard = new Card(Suit.Spades, Value.Nine);
-            
-            List<Card> newList = new List<Card>();
+            // Card firstCard = new Card(CardFace.Eight, Suit.Diamond);
+            // Card secondCard = new Card(CardFace.Seven,Suit.Heart);
+            // Card thirdCard = new Card(CardFace.Nine,Suit.Spade);
+            // //
+            // List<Card> newList = new List<Card>();
             // newList.Add(firstCard);
             // newList.Add(secondCard);
             // newList.Add(thirdCard);
             
-            Console.WriteLine("Welcome to Blackjack!");
+            // Console.WriteLine("Welcome to Blackjack!");
+            //
+            Player newPlayer = new Player(name: "Liv");
+            newPlayer.PrintHandCard();
+
+            Dealer newDealer = new Dealer(name: "Lan");
+
+            Deck newDeck = new Deck();
             
-            Player newPlayer = new Player(name: "Liv", isDealer: false, cardsInHand: newList);
+            Game newGame = new Game(newPlayer, newDealer, newDeck);
+            newGame.Start();
+            newDealer.PrintHandCard();
             newPlayer.PrintHandCard();
             
-            var shuffledCards = new Deck();
-            var newListOfCards = shuffledCards.CreateADeck();
-            var lastCardInList = newListOfCards[51];
-            var randomCard = shuffledCards.DrawCard(newListOfCards);
-            Console.WriteLine(randomCard.FormatCardString());
+            //
+            // var shuffledCards = new Deck();
+            // var newListOfCards = shuffledCards.CreateADeck();
+            // var lastCardInList = newListOfCards[51];
+            // var randomCard = shuffledCards.DrawCard(newListOfCards);
+            // Console.WriteLine(randomCard.FormatCardString());
 
-            var playerChosenInput = new PlayerInput();
-            playerChosenInput.CollectInput();
+            // var playerChosenInput = new PlayerInput();
+            // playerChosenInput.CollectInput();
+
+
         }
     }
 }

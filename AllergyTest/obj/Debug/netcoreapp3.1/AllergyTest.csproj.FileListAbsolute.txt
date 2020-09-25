@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/bin/Debug/netcoreapp3.1/AllergyTest.deps.json
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/bin/Debug/netcoreapp3.1/AllergyTest.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/bin/Debug/netcoreapp3.1/AllergyTest.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/bin/Debug/netcoreapp3.1/AllergyTest.dll
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/bin/Debug/netcoreapp3.1/AllergyTest.pdb
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.dll
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.pdb
+/Users/alivia.sherwood/Desktop/foundational/AllergyTest/obj/Debug/netcoreapp3.1/AllergyTest.genruntimeconfig.cache

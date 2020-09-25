@@ -23,11 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CardFace.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dealer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Suit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Card.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Deck.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinningLogic.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
@@ -44,13 +53,17 @@
       <list>
         <option value="$PROJECT_DIR$/PlayerOutput.cs" />
         <option value="$PROJECT_DIR$/WinningLogic.cs" />
+        <option value="$PROJECT_DIR$/Calculator.cs" />
+        <option value="$PROJECT_DIR$/Deck.cs" />
+        <option value="$PROJECT_DIR$/Card.cs" />
+        <option value="$PROJECT_DIR$/CardFace.cs" />
+        <option value="$PROJECT_DIR$/Dealer.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/Person.cs" />
         <option value="$PROJECT_DIR$/Player.cs" />
         <option value="$PROJECT_DIR$/PlayerInput.cs" />
-        <option value="$PROJECT_DIR$/Card.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
-        <option value="$PROJECT_DIR$/Deck.cs" />
-        <option value="$PROJECT_DIR$/Calculator.cs" />
-        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/Suit.cs" />
       </list>
     </option>
   </component>
@@ -64,6 +77,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Blackjack" type="DotNetProject" factoryName=".NET Project">
@@ -99,6 +113,8 @@
       <workItem from="1600603724853" duration="2437000" />
       <workItem from="1600642369956" duration="617000" />
       <workItem from="1600741320611" duration="2858000" />
+      <workItem from="1601009875681" duration="392000" />
+      <workItem from="1601023846859" duration="365000" />
     </task>
     <servers />
   </component>

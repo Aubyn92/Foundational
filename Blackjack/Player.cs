@@ -1,30 +1,42 @@
-using System;
-using System.IO;
-using System.Text.RegularExpressions;
 using System.Collections.Generic;
 
-namespace Blackjack
+namespace BlackJack
 {
-    public class Player
+    public class Player : Person
     {
-        private string Name { get; set; }
-        private bool IsDealer { get; set; }
-        public List<Card> CardsInHand;
-        
-        public Player(string name, bool isDealer, List<Card> cardsInHand)
+        public void Hit()
         {
-            Name = name;
-            IsDealer = isDealer;
-            CardsInHand = cardsInHand;
+            //Draw one Card - DrawCard();
+            // CardsinHand of player will change.
+            // Originial shuffled deck will also change.
+            
+//             if player_in:
+//             response = int(raw_input('Hit or stay? (Hit = 1, Stay = 0)'))
+//             # If the player asks to be hit, take the first card from the top of
+//             # deck and add it to their hand. If they ask to stay, change
+//             # player_in to false, and move on to the dealer's hand.
+//             if response:
+//             player_in = True
+//             new_player_card = deck.pop()
+//             player_hand.append(new_player_card)
+//             print 'You draw %s' % new_player_card
+//             else:
+//             player_in = False
         }
 
-        public void PrintHandCard()
+        public void Stay()
         {
-            foreach(var card in CardsInHand)
-            {
-                var cardString = card.FormatCardString();
-                Console.WriteLine(cardString);
-            }
+            // Stop Draw card, print final result.
+            // Dealer play starts. - Call Play() in Dealer;
+        }
+
+
+        public Player(string name, List<Card> cardsInHand) : base(name, cardsInHand)
+        {
+        }
+        
+        public Player(string name) : base(name)
+        {
         }
     }
 }

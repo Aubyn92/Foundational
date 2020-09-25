@@ -3,32 +3,41 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 
-namespace Blackjack
+namespace BlackJack
 {
     public class Deck
     {
-        public List<Card> CreateADeck()
+        private List<Card> Cards { get; set; }
+
+        public Deck(List<Card> cards)
+        {
+            Cards = cards;
+        }
+        
+        public Deck()
+        {
+            Cards = CreateADeck();
+        }
+        
+        private List<Card> CreateADeck()
         {
             List<Card> newList = new List<Card>();
-            foreach(Value name in Enum.GetValues(typeof(Value)))
+            foreach(CardFace name in Enum.GetValues(typeof(CardFace)))
             {
                 foreach(Suit suitName in Enum.GetValues(typeof(Suit)))
                 {
-                    var newCard = new Card(suitName, name);
+                    var newCard = new Card(name, suitName);
                     newList.Add(newCard);
                 }
             }
             return newList;
         }
 
-        public Card DrawCard(List<Card> newListOfCards)
+        public Card PopCard()
         {
-            Random rnd = new Random();
-            int cardInt = rnd.Next(52);
-            var randomCard = newListOfCards[cardInt];
-            return randomCard;
+            var firstCard = Cards[0];
+            Cards.Remove(firstCard);
+            return firstCard;
         }
-         // # issue the player and dealer their first two cards:
-        // player_hand = [deck.pop(), deck.pop()]
     }
 }
