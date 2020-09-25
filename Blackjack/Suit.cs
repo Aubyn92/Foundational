@@ -1,4 +1,10 @@
-$HEADER$namespace $NAMESPACE$
+namespace BlackJack
 {
-  public class $CLASS$ {$END$}
+    public enum Suit
+    {
+        Heart,
+        Diamond,
+        Club,
+        Spade
+    }
 }

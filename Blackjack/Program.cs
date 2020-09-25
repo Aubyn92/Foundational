@@ -27,8 +27,8 @@ namespace Blackjack
             // var getCard = shuffledCards.DrawCard(newList);
             // Console.WriteLine(getCard.FormatCardString());
 
-            var game = new Game();
-            game.Start();
+            // var game = new Game();
+            // game.Start();
 
             // var newListOfCards = shuffledCards.CreateADeck();
             // // var lastCardInList = newListOfCards[51];

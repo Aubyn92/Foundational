@@ -1,6 +1,9 @@
+using System;
+using System.Collections.Generic;
+
 namespace AllergyTest
 {
-    public enum AllergyList  //list of items and their value
+    public enum Allergens  
     {
         Eggs = 1,
         Peanuts = 2,
