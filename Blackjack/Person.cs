@@ -26,8 +26,8 @@ namespace BlackJack
             foreach(var card in CardsInHand)
             {
                 var cardString = card.FormatCardString();
-                Console.Write(cardString);
-                Console.Write(" ");
+                Console.WriteLine(cardString);
+                Console.WriteLine(" ");
             }
         }
 
@@ -36,6 +36,25 @@ namespace BlackJack
             // over 21 -> bust
             //if(bust){"You are at currently at Bust!"}
             
+        }
+
+        public int Sum()
+        {
+            var sum = 0;
+            foreach (var card in CardsInHand)
+            {
+                if (card.CardFace == CardFace.Jack || card.CardFace == CardFace.Queen || card.CardFace == CardFace.King)
+                {
+                    sum = sum + 10;
+                }
+                else
+                {
+                    int i = Convert.ToInt32(card.CardFace);
+                    sum = sum + i;
+                }
+            }
+            
+            return sum;
         }
 
         public void DrawCard(Card newCard)

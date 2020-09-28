@@ -17,6 +17,10 @@ namespace BlackJack
             // new_dealer_card = deck.pop()
             // dealer_hand.append(new_dealer_card)
             // print 'Dealer draws %s' % new_dealer_card
+            // while (CardsInHand.Length)
+            // {
+            //     
+            // }
         }
 
         public Dealer(string name, List<Card> cardsInHand) : base(name, cardsInHand)

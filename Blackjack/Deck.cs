@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
+using static System.Linq.Enumerable;
 
 namespace BlackJack
 {
@@ -30,7 +31,8 @@ namespace BlackJack
                     newList.Add(newCard);
                 }
             }
-            return newList;
+            var shuffledList = newList.OrderBy(x => Guid.NewGuid()).ToList();
+            return shuffledList;
         }
 
         public Card PopCard()
