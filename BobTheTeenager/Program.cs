@@ -6,8 +6,10 @@ namespace BobTheTeenager
     {
         public static void Main(string[] args)
         {
+            var userInput = Console.ReadLine();
             var helloBob = new Greeting();
-            helloBob.BobsResponses("");
+            var bobsResponse = helloBob.BobsResponses(userInput);
+            Console.WriteLine(bobsResponse);
         }
     }
 }
