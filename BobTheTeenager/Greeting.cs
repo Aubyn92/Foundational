@@ -12,20 +12,20 @@ namespace BobTheTeenager
             greeting = greeting.Trim();
             if (greeting == "")
             {
-                Console.WriteLine("Fine. Be that way!");
+                return "Fine. Be that way!";
             }
-            else if(Regex.IsMatch(greeting, "[A-Z]") && !Regex.IsMatch(greeting, "[a-z]"))
+            else if(Regex.IsMatch(greeting, "[/?]") && Regex.IsMatch(greeting, "[/!]"))
             {
-                Console.WriteLine("Calm down, I know what I'm doing!");
+                return "Calm down, I know what I'm doing!";
             }
             else if(greeting.Substring(greeting.Length - 1) == "?")
             {
-                Console.WriteLine("Sure.");
+                return"Sure.";
             }
-            // else if()
-            // {
-            //     Console.WriteLine("Whoa, chill out!");
-            // }
+            else if(Regex.IsMatch(greeting, "[/!]"))
+            {
+                return "Whoa, chill out!";
+            }
             return "Whatever.";
         }
     }
