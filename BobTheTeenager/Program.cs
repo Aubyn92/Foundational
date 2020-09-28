@@ -4,9 +4,10 @@ namespace BobTheTeenager
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var helloBob = new Greeting();
+            helloBob.BobsResponses("");
         }
     }
 }
