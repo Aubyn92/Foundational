@@ -27,15 +27,19 @@ namespace BlackJack
             {
                 var cardString = card.FormatCardString();
                 Console.WriteLine(cardString);
-                Console.WriteLine(" ");
             }
         }
 
-        public void DetermineBust()
+        public bool DetermineBust()
         {
-            // over 21 -> bust
-            //if(bust){"You are at currently at Bust!"}
-            
+            if (Sum() > 21)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public int Sum()
