@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "ygkR2AqPWYtJ9vIzzDRq9VOVvhN+HURot3rTZjMVqoJygC25IpP5pyTmx1uF330PGH6XRPnmUTyuCMEAeXQUlw==",
-  "success": false,
+  "dgSpecHash": "PaDI12Yp7IY5lAlIUozWFBTcWY0wcmpk4qjc6U+oiUMoKTbrSvjOPKkNfyG7lX3nZoy6EHihdDdGJ1oILy+3Kg==",
+  "success": true,
   "projectFilePath": "/Users/alivia.sherwood/Desktop/foundational/BobTheTeenagerTests/BobTheTeenagerTests.csproj",
   "expectedPackageFiles": [
     "/Users/alivia.sherwood/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
@@ -55,15 +55,5 @@
     "/Users/alivia.sherwood/.nuget/packages/xunit.extensibility.execution/2.4.0/xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "/Users/alivia.sherwood/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/Users/alivia.sherwood/Desktop/foundational/BobTheTeenager/BobTheTeenager.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "/Users/alivia.sherwood/Desktop/foundational/BobTheTeenager/BobTheTeenager.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
