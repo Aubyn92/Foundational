@@ -9,7 +9,7 @@ namespace BlackJack
     {
         public string Name { get; set; }
         
-        public List<Card> CardsInHand;
+        public readonly List<Card> CardsInHand;
         
         public Person(string name, List<Card> cardsInHand)
         {
@@ -34,14 +34,7 @@ namespace BlackJack
 
         public bool DetermineBust()
         {
-            if (Sum() > 21)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Sum() > 21;
         }
 
         public int Sum()

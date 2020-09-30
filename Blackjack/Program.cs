@@ -29,17 +29,17 @@ namespace BlackJack
             
             Game newGame = new Game(newPlayer, newDealer, newDeck);
             newGame.Start();
-            Console.WriteLine("New Dealers cards in hand: ");
-            newDealer.PrintHandCard();
-            
-            Console.WriteLine("New Players cards in hand: ");
-            newPlayer.PrintHandCard();
-            
-            Console.WriteLine("Players sum: ");
-            Console.WriteLine(newPlayer.Sum());
-            
-            Console.WriteLine("Dealers sum: ");
-            Console.WriteLine(newDealer.Sum());
+            // Console.WriteLine("New Dealers cards in hand: ");
+            // newDealer.PrintHandCard();
+            //
+            // Console.WriteLine("New Players cards in hand: ");
+            // newPlayer.PrintHandCard();
+            //
+            // Console.WriteLine("Players sum: ");
+            // Console.WriteLine(newPlayer.Sum());
+            //
+            // Console.WriteLine("Dealers sum: ");
+            // Console.WriteLine(newDealer.Sum());
             
             
             // var shuffledCards = new Deck();

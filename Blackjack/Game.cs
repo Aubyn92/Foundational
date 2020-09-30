@@ -34,6 +34,7 @@ namespace BlackJack
             var newCardFour = ShuffledDeck.PopCard();
             Dealer.DrawCard(newCardFour);
 
+            
             var newPlayerInput = new PlayerInput();
             var choice = newPlayerInput.CollectInput();
 
@@ -44,9 +45,18 @@ namespace BlackJack
                     Player.Hit(newHitCard);
                     Console.WriteLine("with a hand of: ");
                     Player.PrintHandCard();
+                    var playerIsBusted = Player.Hit(newHitCard);
+                    if (playerIsBusted)
+                    {
+                        Console.WriteLine("Player is busted. Dealer wins!!");
+                    }
                     break;
                 case 0:
-                    Dealer.Play();
+                    var dealerIsBusted = Dealer.Play(ShuffledDeck.Cards);
+                    if (dealerIsBusted)
+                    {
+                        Console.WriteLine("The dealer has busted. Player is the winner!!");
+                    }
                     break;
             }
         }
