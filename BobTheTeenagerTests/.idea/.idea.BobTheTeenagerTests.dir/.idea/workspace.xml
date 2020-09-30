@@ -20,25 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55c4bf37-2817-4557-bcb4-2724293afa3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BobTheTeenagerTests.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests.dir/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BobTheTeenagerTests/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BobTheTeenagerTests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests.dir/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/.idea/.idea.BobTheTeenagerTests/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/BobTheTeenagerTests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/BobTheTeenagerTests/StringTests.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +46,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BobTheTeenagerTests.csproj" />
         <option value="$PROJECT_DIR$/StringTests.cs" />
+        <option value="$PROJECT_DIR$/BobTheTeenagerTests.csproj" />
       </list>
     </option>
   </component>
@@ -66,7 +66,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +79,9 @@
       <workItem from="1601391139769" duration="2110000" />
       <workItem from="1601419650599" duration="1415000" />
       <workItem from="1601421507990" duration="942000" />
-      <workItem from="1601433610069" duration="454000" />
+      <workItem from="1601433610069" duration="335000" />
+      <workItem from="1601434262827" duration="91000" />
+      <workItem from="1601434386460" duration="24000" />
     </task>
     <servers />
   </component>
@@ -108,9 +110,10 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="56" y="213" key="Rider.ProjectTemplateDialog.Size/56.23.1624.1027@56.23.1624.1027" timestamp="1601421464641" />
-    <state x="-1864" y="103" key="SettingsEditor" timestamp="1601393300360">
-      <screen x="-1864" y="23" width="1864" height="1057" />
+    <state x="56" y="101" key="SettingsEditor" timestamp="1601434409680">
+      <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="-1864" y="103" key="SettingsEditor/-1864.23.1864.1057/0.23.1680.1027@-1864.23.1864.1057" timestamp="1601393300360" />
+    <state x="56" y="101" key="SettingsEditor/56.23.1624.1027@56.23.1624.1027" timestamp="1601434409680" />
   </component>
 </project>
