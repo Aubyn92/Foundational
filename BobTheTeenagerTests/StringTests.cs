@@ -19,31 +19,41 @@ namespace BobTheTeenagerTests
         [Fact]
         public void LoudGreeting()
         {
-            Assert.Equal("Whoa, chill out!", ("hello!"));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("hello!");
+            Assert.Equal("Whoa, chill out!", bobsResponse);
         }
         
         [Fact]
         public void QuestionGreeting()
         {
-            Assert.Equal("Calm down, I know what I'm doing!", ("hello?!"));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("hello?!");
+            Assert.Equal("Calm down, I know what I'm doing!", bobsResponse);
         }
         
         [Fact]
         public void LoudQuestionGreeting()
         {
-            Assert.Equal("Sure.", ("hello?"));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("hello?");
+            Assert.Equal("Sure.", bobsResponse);
         }
         
         [Fact]
         public void EmptyGreeting()
         {
-            Assert.Equal("Fine. Be that way!", (""));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("");
+            Assert.Equal("Fine. Be that way!", bobsResponse);
         }
         
         [Fact]
         public void Whitespace()
         {
-            Assert.Equal("Whatever.", ("              hello"));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("                  hello");
+            Assert.Equal("Whatever.", bobsResponse);
         }
     }
 }

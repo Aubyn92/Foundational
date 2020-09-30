@@ -901,6 +901,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "BobTheTeenager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BobTheTeenager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BobTheTeenager.dll": {}
+        }
       }
     }
   },
@@ -3494,11 +3504,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "BobTheTeenager/1.0.0": {
+      "type": "project",
+      "path": "../BobTheTeenager/BobTheTeenager.csproj",
+      "msbuildProject": "../BobTheTeenager/BobTheTeenager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "/Users/alivia.sherwood/Desktop/foundational/BobTheTeenager/BobTheTeenager.csproj",
+      "BobTheTeenager >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -3579,16 +3594,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/Users/alivia.sherwood/Desktop/foundational/BobTheTeenager/BobTheTeenager.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "/Users/alivia.sherwood/Desktop/foundational/BobTheTeenager/BobTheTeenager.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }
