@@ -1,5 +1,8 @@
 using System;
+using BobTheTeenager;
 using Xunit;
+
+
 
 namespace BobTheTeenagerTests
 {
@@ -8,7 +11,9 @@ namespace BobTheTeenagerTests
         [Fact]
         public void RandomisedGreeting()
         {
-            Assert.Equal("Whatever.", ("hello"));
+            var helloBob = new Greeting();
+            string bobsResponse = helloBob.BobsResponses("hello");
+            Assert.Equal("Whatever.", bobsResponse);
         }
 
         [Fact]
