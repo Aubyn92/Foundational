@@ -23,13 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430073d4-3d29-411f-9950-709fabd610ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BobTheTeenager/.idea/.idea.BobTheTeenager.dir/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BobTheTeenager/.idea/.idea.BobTheTeenager.dir/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/.idea/.idea.magic-year.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/Debug/netcoreapp3.1/magic-year.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../magic-year/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../magic-year/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.callMe.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.callMe.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringTransform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StringTransform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/callMe.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +43,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StringTransform.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/StringTransform.cs" />
       </list>
     </option>
   </component>
@@ -86,13 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601516883790</updated>
       <workItem from="1601516887583" duration="6376000" />
+      <workItem from="1601561576012" duration="4636000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -104,6 +106,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
