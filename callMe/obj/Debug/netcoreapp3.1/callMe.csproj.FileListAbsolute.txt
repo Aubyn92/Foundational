@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/callMe/bin/Debug/netcoreapp3.1/callMe.deps.json
+/Users/alivia.sherwood/Desktop/foundational/callMe/bin/Debug/netcoreapp3.1/callMe.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/callMe/bin/Debug/netcoreapp3.1/callMe.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/callMe/bin/Debug/netcoreapp3.1/callMe.dll
+/Users/alivia.sherwood/Desktop/foundational/callMe/bin/Debug/netcoreapp3.1/callMe.pdb
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.dll
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.pdb
+/Users/alivia.sherwood/Desktop/foundational/callMe/obj/Debug/netcoreapp3.1/callMe.genruntimeconfig.cache
