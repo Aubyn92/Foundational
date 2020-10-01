@@ -36,6 +36,11 @@ namespace BlackJack
         {
             return Sum() > 21;
         }
+        
+        public bool DetermineBlackjack()
+        {
+            return Sum() == 21;
+        }
 
         public int Sum()
         {

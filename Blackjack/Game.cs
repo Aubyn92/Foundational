@@ -24,40 +24,50 @@ namespace BlackJack
             Console.Clear();
             var newCard = ShuffledDeck.PopCard();
             Player.DrawCard(newCard);
-            
+
             var newCardTwo = ShuffledDeck.PopCard();
             Player.DrawCard(newCardTwo);
+            Console.WriteLine("Your first two cards are: ");
+            Player.PrintHandCard();
+            Console.WriteLine($"You are currently at {Player.Sum()}");
             
+            if (Player.DetermineBlackjack())
+            {
+                Console.WriteLine("Player has won!! Yay!");
+                Environment.Exit(1);
+            }
+ 
             var newCardThree = ShuffledDeck.PopCard();
             Dealer.DrawCard(newCardThree);
-            
+
             var newCardFour = ShuffledDeck.PopCard();
             Dealer.DrawCard(newCardFour);
 
-            
             var newPlayerInput = new PlayerInput();
             var choice = newPlayerInput.CollectInput();
 
-            switch (choice)
+            while (choice != 0)
             {
-                case 1:
-                    var newHitCard = ShuffledDeck.PopCard();
-                    Player.Hit(newHitCard);
-                    Console.WriteLine("with a hand of: ");
-                    Player.PrintHandCard();
-                    var playerIsBusted = Player.Hit(newHitCard);
-                    if (playerIsBusted)
-                    {
-                        Console.WriteLine("Player is busted. Dealer wins!!");
-                    }
-                    break;
-                case 0:
-                    var dealerIsBusted = Dealer.Play(ShuffledDeck.Cards);
-                    if (dealerIsBusted)
-                    {
-                        Console.WriteLine("The dealer has busted. Player is the winner!!");
-                    }
-                    break;
+                var newHitCard = ShuffledDeck.PopCard();
+                Player.Hit(newHitCard);
+                Console.WriteLine("with a hand of: ");
+                Player.PrintHandCard();
+                var playerIsBusted = Player.Hit(newHitCard);
+                if (playerIsBusted)
+                {
+                    Console.WriteLine("Player is busted. Dealer wins!!"); 
+                    Environment.Exit(1);
+                }
+                else
+                {
+                    choice = newPlayerInput.CollectInput();
+                }
+            }
+
+            var dealerIsBusted = Dealer.Play(ShuffledDeck.Cards);
+            if (dealerIsBusted)
+            {
+                Console.WriteLine("The dealer has busted. Player is the winner!!");
             }
         }
 
