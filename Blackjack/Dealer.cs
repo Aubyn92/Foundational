@@ -14,16 +14,23 @@ namespace BlackJack
                 int index = 0;
                 Console.WriteLine("The dealers first two cards are: \n");
                 PrintHandCard();
+                Console.WriteLine($"Dealer is currently at: {Sum()}");
                 while (Sum() < 17)
                 {
                     DrawCard(cards[index]);
                     index++;
-                    Console.WriteLine($"Dealer's sum = {Sum()}");
                     PrintHandCard();
+                    Console.WriteLine($"Dealer is currently at: {Sum()}");
                     if (DetermineBust())
                     {
                         return true;
                     }
+                }
+                
+                if (DetermineBlackjack())
+                {
+                    Console.WriteLine("Dealer has won Blackjack!!! Yay!");
+                    Environment.Exit(1);
                 }
                 
                 return false;
