@@ -24,12 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dealer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dealer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Blackjack.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +108,7 @@
       <workItem from="1601361974821" duration="7551000" />
       <workItem from="1601439354701" duration="4571000" />
       <workItem from="1601529180028" duration="2678000" />
+      <workItem from="1601956731447" duration="1894000" />
     </task>
     <servers />
   </component>
@@ -166,6 +161,10 @@
     <state width="1454" height="148" key="GridCell.Tab.0.right/52.23.1628.1027@52.23.1628.1027" timestamp="1601531612770" />
     <state width="1454" height="832" key="GridCell.Tab.0.right/54.23.1626.1027@54.23.1626.1027" timestamp="1601530578893" />
     <state width="1551" height="761" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1601874114226" />
+    <state x="368" y="213" key="Rider.ProjectTemplateDialog.Size" timestamp="1601957206459">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="368" y="213" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050@0.0.1680.1050" timestamp="1601957206459" />
     <state x="169" y="23" width="1288" height="897" key="SettingsEditor" timestamp="1601441208372">
       <screen x="54" y="23" width="1626" height="1027" />
     </state>
