@@ -1,6 +1,8 @@
 using System;
+using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Channels;
+
 
 namespace callMe
 {
@@ -8,19 +10,18 @@ namespace callMe
     {
         public string TransformPhoneNumber (string phoneNumber)
         {
-            try
+            var digitOnlyPhoneNum = Regex.Replace(phoneNumber, "\\D+", "");
+            if (digitOnlyPhoneNum.Substring(0, 2) == "61")
             {
-                return Regex.Replace(phoneNumber, @"[\\s\\-()]", "");
-                // return Regex.Replace(phoneNumber,@"[^1?[\s-]?\(?(\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}]", "");
-                // return Regex.Replace(phoneNumber, @"[^\w\.@-]", "", RegexOptions.None, TimeSpan.FromSeconds(1.5)).Trim();
+                digitOnlyPhoneNum = digitOnlyPhoneNum.Remove(0, 2);
             }
-            catch (RegexMatchTimeoutException)
-            {
-                return "";
-            }
-            // return Regex.Replace(phoneNumber, @"[^\w\s\D]", "");
-            // return Regex.Replace(phoneNumber,@"[^1?[\s-]?\(?(\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}]", "");
-            // return Regex.Replace(phoneNumber, @"[^()\\s-]+", "").Trim();
+            
+            var noBracketNum = digitOnlyPhoneNum.Replace("(", "").Replace(")", "");
+
+            var noDashesAndDots = Regex.Replace(noBracketNum, "[-/.]", "");
+           
+            var noPlusSign = Regex.Replace(noDashesAndDots, "\"\\\\+\"", "");
+            return noPlusSign;
         }
     }
 }

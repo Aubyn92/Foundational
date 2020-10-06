@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=11bda217_002D3d2f_002D432d_002D9bce_002D7f8e544e588e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NoCountryCodeBracketsOrWhitespace" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::12DDD1A1-2E0C-218C-1A56-804D1AA7F32E::.NETCoreApp,Version=v3.1::CallMeTests.CallMeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5646df40_002D8bbf_002D4ec5_002D880e_002D18a7c885e344/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CallMeTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::12DDD1A1-2E0C-218C-1A56-804D1AA7F32E::.NETCoreApp,Version=v3.1::CallMeTests.CallMeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bae7fc73_002D6f18_002D4895_002Db2fd_002D6ca781a0b8d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CallMeTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::12DDD1A1-2E0C-218C-1A56-804D1AA7F32E::.NETCoreApp,Version=v3.1::CallMeTests.CallMeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9f5c106_002D1262_002D41bd_002Da44b_002D38dbab73f9ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CallMeTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::12DDD1A1-2E0C-218C-1A56-804D1AA7F32E::.NETCoreApp,Version=v3.1::CallMeTests.CallMeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

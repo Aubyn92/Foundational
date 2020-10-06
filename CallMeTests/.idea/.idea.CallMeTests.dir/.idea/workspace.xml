@@ -19,7 +19,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0df7f2-9294-4ba6-b5bb-fab99a7969eb" name="Default Changelist" comment="" />
+    <list default="true" id="2c0df7f2-9294-4ba6-b5bb-fab99a7969eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CallMeTests.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CallMeTests.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/CallMeTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/CallMeTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/CallMeTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/CallMeTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/callMe.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/CallMeTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/.idea/.idea.callMe.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/.idea/.idea.callMe.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/StringTransform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/StringTransform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/bin/Debug/netcoreapp3.1/callMe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/bin/Debug/netcoreapp3.1/callMe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/bin/Debug/netcoreapp3.1/callMe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/bin/Debug/netcoreapp3.1/callMe.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/obj/Debug/netcoreapp3.1/callMe.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +64,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager" selected="11bda217-3d2f-432d-9bce-7f8e544e588e" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,13 +76,15 @@
       <option name="presentableId" value="Default" />
       <updated>1601561598349</updated>
       <workItem from="1601561614425" duration="4170000" />
+      <workItem from="1601891221877" duration="6641000" />
+      <workItem from="1601932465332" duration="11595000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -73,8 +96,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="88" key="SettingsEditor" timestamp="1601933185835">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="509" y="88" key="SettingsEditor/56.23.1624.1027@56.23.1624.1027" timestamp="1601933185835" />
   </component>
 </project>
