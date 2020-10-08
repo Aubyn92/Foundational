@@ -9,7 +9,12 @@ namespace Proverbs
         static void Main(string[] args)
         {
             var newInstanceOfWordList = new Proverbs();
-            newInstanceOfWordList.WordList(new string[] {"nail", "shoe", "horse", "rider", "message", "battle", "kingdom"});
+            
+            // need to store newInstanceOfWordList in its own variable in order to run method 'WordList' on it
+            var arrayOfWords = newInstanceOfWordList.WordList(new string[] {"nail", "shoe", "horse", "rider", "message", "battle", "kingdom"});
+            
+            // need to use method 'Join' in order for it to print correctly
+            Console.WriteLine(string.Join("\n", arrayOfWords));
         }
     }
 }

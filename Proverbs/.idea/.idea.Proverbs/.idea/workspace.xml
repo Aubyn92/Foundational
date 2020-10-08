@@ -20,29 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="131f70ac-6e27-4037-a032-4222a827cc2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proverbs/Proverbs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/.idea/.idea.Blackjack.Tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/.idea/.idea.Blackjack.Tests/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proverbs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/Debug/netcoreapp3.1/Proverbs.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/Debug/netcoreapp3.1/Proverbs.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/Debug/netcoreapp3.1/Proverbs.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/Debug/netcoreapp3.1/Proverbs.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/Proverbs.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/Proverbs.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Proverbs/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/Proverbs.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/Proverbs.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proverbs/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proverbs/Proverbs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/Proverbs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +42,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Proverbs/Program.cs" />
         <option value="$PROJECT_DIR$/Proverbs/Proverbs.cs" />
+        <option value="$PROJECT_DIR$/Proverbs/Program.cs" />
       </list>
     </option>
   </component>
@@ -105,6 +89,7 @@
       <updated>1602055540352</updated>
       <workItem from="1602055547375" duration="1873000" />
       <workItem from="1602107857091" duration="7523000" />
+      <workItem from="1602127899793" duration="1107000" />
     </task>
     <servers />
   </component>
@@ -126,22 +111,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1568" height="365" key="GridCell.Tab.0.bottom" timestamp="1602119112126">
+    <state x="331" y="191" width="1285" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602128667185">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1568" height="365" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1602119112126" />
-    <state width="1568" height="365" key="GridCell.Tab.0.center" timestamp="1602119112125">
+    <state x="331" y="191" width="1285" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1602128667185" />
+    <state width="351" height="881" key="GridCell.Tab.0.bottom" timestamp="1602129134038">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1568" height="365" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1602119112125" />
-    <state width="1568" height="365" key="GridCell.Tab.0.left" timestamp="1602119112125">
+    <state width="351" height="881" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1602129134038" />
+    <state width="351" height="881" key="GridCell.Tab.0.center" timestamp="1602129134037">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1568" height="365" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1602119112125" />
-    <state width="1568" height="365" key="GridCell.Tab.0.right" timestamp="1602119112126">
+    <state width="351" height="881" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1602129134037" />
+    <state width="351" height="881" key="GridCell.Tab.0.left" timestamp="1602129134036">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1568" height="365" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1602119112126" />
+    <state width="351" height="881" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1602129134036" />
+    <state width="351" height="881" key="GridCell.Tab.0.right" timestamp="1602129134038">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state width="351" height="881" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1602129134038" />
     <state width="1568" height="365" key="GridCell.Tab.1.bottom" timestamp="1602119112128">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>

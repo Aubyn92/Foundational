@@ -12,6 +12,7 @@ namespace Proverbs
                     ? $"And all for the want of a {words[0]}."
                     : $"For want of a {t} the {words[i + 1]} was lost.")
                 .ToList();
+            
             return result.ToArray();
         }
     }
