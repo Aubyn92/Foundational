@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks.Dataflow;
 
 namespace Proverbs
 {
@@ -6,7 +8,8 @@ namespace Proverbs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var newInstanceOfWordList = new Proverbs();
+            newInstanceOfWordList.WordList(new string[] {"nail", "shoe", "horse", "rider", "message", "battle", "kingdom"});
         }
     }
 }

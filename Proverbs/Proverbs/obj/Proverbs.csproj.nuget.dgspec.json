@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj": {}
+    "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj": {}
   },
   "projects": {
-    "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj": {
+    "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj",
+        "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj",
         "projectName": "Proverbs",
-        "projectPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj",
+        "projectPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj",
         "packagesPath": "/Users/alivia.sherwood/.nuget/packages/",
-        "outputPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/obj/",
+        "outputPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alivia.sherwood/.nuget/NuGet/NuGet.Config"

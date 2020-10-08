@@ -1,0 +1,12 @@
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.deps.json
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.runtimeconfig.json
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.runtimeconfig.dev.json
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.dll
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/bin/Debug/netcoreapp3.1/Proverbs.pdb
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.csprojAssemblyReference.cache
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.AssemblyInfoInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.AssemblyInfo.cs
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.csproj.CoreCompileInputs.cache
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.dll
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.pdb
+/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/Debug/netcoreapp3.1/Proverbs.genruntimeconfig.cache

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj",
+    "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj",
     "projectName": "Proverbs",
-    "projectPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/Proverbs.csproj",
-    "outputPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs/obj/",
+    "projectPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/Proverbs.csproj",
+    "outputPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d61095-eeba-49f5-9aa5-a8df3a287906" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blackjack.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack.Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
       <updated>1601957462131</updated>
       <workItem from="1601957475507" duration="289000" />
       <workItem from="1602021870784" duration="38000" />
+      <workItem from="1602036013371" duration="50000" />
     </task>
     <servers />
   </component>

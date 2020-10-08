@@ -3510,11 +3510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs.Tests/Proverbs.Tests.csproj",
+      "projectUniqueName": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs.Tests/Proverbs.Tests.csproj",
       "projectName": "Proverbs.Tests",
-      "projectPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs.Tests/Proverbs.Tests.csproj",
+      "projectPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs.Tests/Proverbs.Tests.csproj",
       "packagesPath": "/Users/alivia.sherwood/.nuget/packages/",
-      "outputPath": "/Users/alivia.sherwood/Desktop/foundational/callMe/Proverbs/Proverbs.Tests/obj/",
+      "outputPath": "/Users/alivia.sherwood/Desktop/foundational/Proverbs/Proverbs.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alivia.sherwood/.nuget/NuGet/NuGet.Config"

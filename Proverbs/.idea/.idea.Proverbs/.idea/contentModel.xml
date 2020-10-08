@@ -19,6 +19,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Proverbs.cs" t="Include" />
         <e p="Proverbs.csproj" t="IncludeRecursive" />
       </e>
       <e p="Proverbs.sln" t="IncludeFlat" />
@@ -36,6 +37,6 @@
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Proverbs.1989813558.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Proverbs.1812836285.00" t="ExcludeRecursive" />
   </component>
 </project>

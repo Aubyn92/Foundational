@@ -23,6 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/.idea/.idea.Blackjack.Tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/.idea/.idea.Blackjack.Tests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/Debug/netcoreapp3.1/Blackjack.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack.Tests/Blackjack.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +112,7 @@
       <workItem from="1601439354701" duration="4571000" />
       <workItem from="1601529180028" duration="2678000" />
       <workItem from="1601956731447" duration="1894000" />
+      <workItem from="1602036801385" duration="1163000" />
     </task>
     <servers />
   </component>
