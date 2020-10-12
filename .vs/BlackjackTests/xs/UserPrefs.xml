@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{A9E5423B-ED3E-41BE-91CE-6E6B3DB3DB6C}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlackjacKTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

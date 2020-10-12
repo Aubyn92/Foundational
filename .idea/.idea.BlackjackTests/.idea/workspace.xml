@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0a00ec7-f133-4f10-a1da-7e6fa8cc6e79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BlackjackTests/BlackjackTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/BlackjacKTests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/CardTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/DealerTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/DeckTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/GameTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/PersonTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callMe/BlackjacKTests/BlackjacKTests/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BlackjackTests/CardTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1il0AV5zdnjBHJgZK05VeHXl71N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a00ec7-f133-4f10-a1da-7e6fa8cc6e79" name="Default Changelist" comment="" />
+      <created>1602466727421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602466727421</updated>
+      <workItem from="1602466739858" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

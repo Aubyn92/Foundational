@@ -23,18 +23,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5cb6fd-c754-46a0-a8da-c43fc09a8199" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/DealerTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/DeckTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/GameTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/PersonTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackjackTests/BlackjackTests.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Blackjack.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../callMe/BlackjacKTests/.idea/.idea.BlackjacKTests/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/BlackjacKTests.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/CardTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/DealerTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/DeckTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/GameTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/PersonTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/BlackjacKTests.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/Debug/netcoreapp3.1/BlackjacKTests.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../callMe/BlackjacKTests/BlackjacKTests/obj/rider.project.restore.info" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +140,7 @@
       <workItem from="1601439354701" duration="4571000" />
       <workItem from="1601529180028" duration="2678000" />
       <workItem from="1602462915830" duration="1753000" />
+      <workItem from="1602539507459" duration="43000" />
     </task>
     <servers />
   </component>
