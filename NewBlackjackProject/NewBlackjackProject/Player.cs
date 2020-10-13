@@ -3,22 +3,15 @@ using System.Collections.Generic;
 
 namespace NewBlackjackProject
 {
-    public class Player : Person
+    public class Player
     {
+        public Hand PlayersHand { get; }
         public bool Hit(Card newCard)
         {
-            DrawCard(newCard);
-            Sum();
-            Console.WriteLine($"You are currently at {Sum()}");
-            return DetermineBust();
-        }
-        
-        public Player(List<Card> cardsInHand) : base(cardsInHand)
-        {
-        }
-        
-        public Player() : base()
-        {
+            PlayersHand.DrawCard();
+            PlayersHand.Sum();
+            Console.WriteLine($"You are currently at {PlayersHand.Sum()}");
+            return PlayersHand.DetermineBust();
         }
     }
 }

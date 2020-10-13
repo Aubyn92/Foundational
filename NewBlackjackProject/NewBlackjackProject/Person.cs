@@ -4,16 +4,16 @@ using System.Linq;
 
 namespace NewBlackjackProject
 {
-    public class Person
+    public class Hand
     {
         public List<Card> CardsInHand { get; }
 
-        public Person(List<Card> cardsInHand)
+        public Hand(List<Card> cardsInHand)
         {
             CardsInHand = cardsInHand;
         }
 
-        protected Person()
+        protected Hand()
         {
             CardsInHand = new List<Card>();
         }
@@ -71,6 +71,7 @@ namespace NewBlackjackProject
             
             return sum;
         }
+        
 
         public void DrawCard(Card newCard)
         {
