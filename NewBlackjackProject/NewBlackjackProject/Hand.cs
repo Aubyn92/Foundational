@@ -58,6 +58,7 @@ namespace NewBlackjackProject
             var sum = 0;
             foreach (var card in CardsInHand)
             {
+                 //sum += card.GetValue;
                 if (card.CardFace == CardFace.Jack || card.CardFace == CardFace.Queen || card.CardFace == CardFace.King)
                 {
                     sum += 10;
@@ -71,8 +72,8 @@ namespace NewBlackjackProject
             
             return sum;
         }
-        
 
+       
         public void DrawCard(Card newCard)
         {
             CardsInHand.Add(newCard);

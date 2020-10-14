@@ -17,7 +17,7 @@ namespace NewBlackjackProject
                 DealersHand.DrawCard(cards[index]);
                 index++;
                 Console.WriteLine($"Dealer's sum = {DealersHand.Sum()}");
-                DealetrsHand.PrintHandCard();
+                DealersHand.PrintHandCard();
                 if (DetermineBust())
                 {
                     return true;
